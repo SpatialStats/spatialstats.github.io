@@ -15,7 +15,7 @@ Combine the power of ArcGIS and R to solve your spatial problems. The R – ArcG
 The R ArcGIS Bridge Github repository has all the resources you need to find out what the R-ArcGIS Bridge can do, how to install it and sample scripts highlighting some of the many features.
 
 #### [Installation Instructions](https://github.com/R-ArcGIS/r-bridge-install)
-Installing the bridge - come here for detailed tutorials to get up and running.
+Looking to install the bridge? We have detailed instructions for ArcMap and ArcGIS Pro.
 
 #### [R ArcGIS Bridge Geonet Community](https://community.esri.com/groups/rstats)
 Have questions about using the bridge? Check out this geonet community and network with your peers.
