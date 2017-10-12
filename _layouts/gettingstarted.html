@@ -1,0 +1,59 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+	{% if page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+
+	{% if page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+
+	{% if page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+{% comment %}
+*
+* Second Row of Widgets
+*
+{% endcomment %}
+<div class="row t60">
+    {% if page.widget4.title %}
+        {% include _frontpage-widget.html widget=page.widget4 %}
+    {% endif %}
+
+
+    {% if page.widget5.title %}
+        {% include _frontpage-widget.html widget=page.widget5 %}
+    {% endif %}
+
+
+    {% if page.widget6.title %}
+        {% include _frontpage-widget.html widget=page.widget6 %}
+    {% endif %}
+</div><!-- /.row -->
+
+

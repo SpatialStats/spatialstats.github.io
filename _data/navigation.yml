@@ -1,0 +1,76 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Presentations"
+  url: "/presentations/"
+  side: left
+
+- title: "Hands-on"
+  url: "/hands-on/"
+  side: left
+
+- title: Tool Overview
+  url: "/tool-overview/"
+  side: left
+  dropdown:
+  - title: "Space Time Pattern Mining"
+    url: "/tool-overview/#space-time-pattern-mining-toolbox"
+  - title: "Spatial Statistics"
+    url: "/tool-overview/#spatial-statistics-toolbox"    
+
+- title: "Additional Resources"
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "Summarize"
+    url: "/resources/#summarize"
+  - title: "Find clusters"
+    url: "/resources/#find-clusters"    
+  - title: "Model relationships"
+    url: "/resources/#model-relationships"
+  - title: "Space Time Pattern Mining"
+    url: "/resources/#space-time-pattern-mining"
+  - title: "Tips and tricks"
+    url: "/resources/#tips-and-tricks"
+  - title: "Putting it all together"
+    url: "/resources/#putting-it-all-together"
+  - title: "Articles and blogs"
+    url: "/resources/#articles-and-blogs"
+  - title: "Integrating ArcGIS and R]"
+    url: "/resources/#integrating-arcgis-and-r"
+  - title: "Model and script tools"
+    url: "/resources/#model-and-script-tools"
+  - title: "Read more"
+    url: "/resources/#read-more"
+
+- title: "R-ArcGIS Bridge"
+  url: "/r-arcgis-bridge/"
+  side: left
+
+
+# - title: TOREMOVEResources
+#   url: "/resources/"
+#   side: right
+#   dropdown:
+#   - title: "Summarize"
+#     url: "/resources/#summarize"
+#   - title: "Find clusters"
+#     url: "/resources/##find-clusters"    
+#   - title: "Model relationships"
+#     url: "/resources/#model-relationships"
+#   - title: "Space Time Pattern Mining"
+#     url: "/resources/#space-time-pattern-mining"
+#   - title: "Tips and tricks"
+#     url: "/resources/#tips-and-tricks"
+#   - title: "Putting it all together"
+#     url: "/resources/#putting-it-all-together"
+#   - title: "Articles and blogs"
+#     url: "/resources/#articles-and-blogs"
+#   - title: "Integrating ArcGIS and R]"
+#     url: "/resources/#integrating-arcgis-and-r"
+#   - title: "Model and script tools"
+#     url: "/resources/#model-and-script-tools"
+#   - title: "Read more"
+#     url: "/resources/#read-more"
+
