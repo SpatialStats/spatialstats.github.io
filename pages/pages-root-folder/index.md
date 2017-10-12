@@ -9,17 +9,17 @@ header:
   image_fullwidth: banner.jpg
 widget1:
   title: "Getting Started"
-  url: 'https://ryanruthart.github.io/hands-on/'
+  url: 'https://spatialstats.github.io/hands-on/'
   image: GettingStarted-sm.png
   text: 'New to Spatial Statistics? Check out these resources to get an overview of what we offer'
 widget2:
   title: "Presentations"
-  url: 'https://ryanruthart.github.io/presentations/'
+  url: 'https://spatialstats.github.io/presentations/'
   image: presentations.jpg
   text: 'Looking for presentation videos and slides from UC or other events?'
 widget3:
   title: "R-ArcGIS Bridge"
-  url: 'https://ryanruthart.github.io/r-arcgis-bridge/'
+  url: 'https://spatialstats.github.io/r-arcgis-bridge/'
   image: r-arcgis-sm.png
   text: 'There are no limits when you use the Bridge'
 
