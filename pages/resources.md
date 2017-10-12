@@ -36,7 +36,7 @@ This is the **big** encompassing list of our resources, for focused resources ch
 
 ### Space Time Cube Explorer ###
 
-The Add-in can help you interact with and explore your space-time cube and analysis results created with the [Space Time Pattern Mining toolbox](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm) in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a [defined locations cube](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/createcubefromdefinedlocations.htm) and enhanced time and range slider settings.
+The Space Time Cube Explorer add-in can help you interact with and explore your space-time cube and analysis results created with the [Space Time Pattern Mining toolbox](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm) in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a [defined locations cube](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/createcubefromdefinedlocations.htm) and enhanced time and range slider settings.
 
 
 You can download the Add-in at [www.esriurl.com/SpaceTimeCubeExplorer](http://www.esriurl.com/SpaceTimeCubeExplorer) .
