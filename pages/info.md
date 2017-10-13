@@ -5,4 +5,4 @@ permalink: "/info/"
 header:
     image_fullwidth: "banner.jpg"
 ---
-The spatial statistics team at esri develops tools to blend statistical and spatial analysis. Some of our tools include hot spot analysis, cluster analysis and space time pattern mining
+The Spatial Statistics team at Esri develops tools at the intersection of statistical and spatial analysis. Using spatial statistics you can find patterns, explore relationships, and understand temporal trends in your data. 

@@ -9,6 +9,9 @@ header:
 permalink: "/hands-on/"
 ---
 
+
+</style>
+
 <div id="overview_div" markdown="1" class="row">
 
 <div class="small-12 large-6 columns" markdown="1" top="0">

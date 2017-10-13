@@ -11,13 +11,13 @@
 title: 'Spatial Statistics Resources'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'The latest from the Spatial Statistics Team'
+slogan: 'The latest from the Spatial Statistics team'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»The spatial statistics team at esri develops tools to blend statistical and spatial analysis. Some of our tools include hot spot analysis, cluster analysis and space time pattern mining'
+description: '»The Spatial Statistics team at Esri develops tools at the intersection of statistical and spatial analysis. Using spatial statistics you can find patterns, explore relationships, and understand temporal trends in your data.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by the spatial statistics team with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></p>'
+credits: '<p>Created with &hearts; by the Spatial Statistics team with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></p>'
 
 # Main author of the website
 # See > authors.yml
