@@ -10,7 +10,6 @@ permalink: "/hands-on/"
 ---
 
 
-</style>
 
 <div id="overview_div" markdown="1" class="row">
 
