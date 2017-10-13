@@ -21,7 +21,7 @@ widget3:
   title: "R-ArcGIS Bridge"
   url: 'https://spatialstats.github.io/r-arcgis-bridge/'
   image: R-ArcGIS-Icon-sm.png
-  text: 'There are no limits when you use the Bridge'
+  text: 'There are no limits when you use the R-ArcGIS Bridge'
 
 
 
