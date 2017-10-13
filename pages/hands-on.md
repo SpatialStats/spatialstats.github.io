@@ -13,9 +13,10 @@ permalink: "/hands-on/"
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
 
+<div align="center" markdown="1">
 ### Overview
-
 <a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/grouping_2_sm-play.PNG" alt="hi" class="inline"/></a>
+</div>
 
 #### Hands-on
 
@@ -28,8 +29,10 @@ permalink: "/hands-on/"
 </div>
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
+<div align="center" markdown="1">
 ### Clustering
 <a href="https://www.youtube.com/watch?v=qQNOlfOYtyw&index=51&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/Clustering_3images-sm-play.PNG" alt="hi" class="inline"/></a>
+</div>
 #### Hands-on
 * [Hot spot analysis tutorial](http://www.arcgis.com/home/item.html?id=6626d5cc81a745f1b737028f7a519521) - Examine 911 call data using the hot spot analysis tool
 * [Celebrating linguistic diversity](http://desktop.arcgis.com/en/analytics/case-studies/linguistic-diversity-1-intro.htm) - Looking at language diversity data using the hot spot analysis tool
@@ -46,9 +49,10 @@ permalink: "/hands-on/"
 
 <div id="overview_div" markdown="1" class="row">
 <div class="small-12 large-6 columns" markdown="1" top="0">
+<div align="center" markdown="1">
 ### Space-Time
 <a href="https://www.youtube.com/watch?v=0aV6HHwJuo4&index=50&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/whats-new-play.jpg" alt="hi" class="inline"/></a>
-
+</div>
 #### Hands-on
 
 * [Broken Bottles](http://desktop.arcgis.com/en/analytics/case-studies/broken-bottles-1-overview.htm) - Examining temporal trends in crime data with the emerging hot spot analysis tool
@@ -63,9 +67,10 @@ permalink: "/hands-on/"
 </div>
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
+<div align="center" markdown="1">
 ### Regression
 <a href="http://www.esri.com/videos/watch?videoid=3871&isLegacy=true&title=modeling-spatial-relationships-using-regression-analysis" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="hi" class="inline"/></a>
-
+</div>
 #### Hands-on
 
 * [Regression analysis tutorial](http://www.arcgis.com/home/item.html?id=71a65d35688a4502b123cbdfc99afdee) - Using regression analysis to find factors contributing to 911 call volume
