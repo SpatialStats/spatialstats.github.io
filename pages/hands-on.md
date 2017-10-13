@@ -15,7 +15,7 @@ permalink: "/hands-on/"
 
 ### Overview
 
-<a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/Overview_GroupingUS-sm-play.PNG" alt="hi" class="inline"/></a>
+<a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/grouping_2_sm-play.PNG" alt="hi" class="inline"/></a>
 
 #### Hands-on
 
