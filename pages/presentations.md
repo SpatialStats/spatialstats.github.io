@@ -62,7 +62,7 @@ This workshop covers regression analysis concepts for the analysis of geographic
 
 <h3 markdown="1">[Data Science Made Easy in ArcGIS using Python and R](https://www.youtube.com/watch?v=YQ7JQi13_B0){:target="_blank"}</h3>
 
-Python and R provide a wide array of powerful modules that can expand the data science capabilities of ArcGIS. This session outlines integration techniques that allow you to call open source statistical packages to quantify patterns and relationships in your data. 
+Python and R provide a wide array of powerful modules that can expand the data science capabilities of ArcGIS. This session outlines integration techniques that allow you to call open source statistical packages to quantify patterns and relationships in your data. | [Slides](https://esri.box.com/s/wz3aqctn69bord0cwmxfouoxtbc2gbyj)
 </div>
 </div>
 
