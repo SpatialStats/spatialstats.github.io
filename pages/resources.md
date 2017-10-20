@@ -52,10 +52,10 @@ You can download the Add-in at [www.esriurl.com/SpaceTimeCubeExplorer](http://ww
 ### Brand new to spatial statistics ###
 #### Start here > ####
 
-1. Spatial Statistics: Simple Ways to Do More with Your Data ([Video](http://video.esri.com/watch/4003/spatial-statistics-simple-ways-to-do-more-with-your-data), [PDF](https://esri.box.com/shared/static/x9fbd9qoxk8vvbuujtzm6m4ojqorrn2b.pdf), [2015 UC slides](https://esri.app.box.com/s/nspdj6x8dq9ff0sx2dwja27wxhwdw9lu/1/4099931963/33982520975/1))
-1. Spatial Data Mining: A Deep Dive into Cluster Analysis ([Video](http://video.esri.com/watch/4004/spatial-data-mining-a-deep-dive-into-cluster-analysis), [PDF](https://esri.box.com/shared/static/esng9jnrjm4oyb0cixbpmc0y3mjdu5gk.pdf), [2015 UC slides](https://esri.app.box.com/s/nspdj6x8dq9ff0sx2dwja27wxhwdw9lu/1/4099931963/33982533045/1))
+1. Spatial Statistics: Simple Ways to Do More with Your Data ([Video](https://www.youtube.com/watch?v=3d_8nQpSCgE&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&index=43), [PDF](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95))
+1. Spatial Data Mining: A Deep Dive into Cluster Analysis ([Video](https://www.youtube.com/watch?v=qQNOlfOYtyw&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&index=51), [PDF](https://esri.box.com/s/yvdmwwbgnxzo11fpv54knngxui3pjs5f))
 1. Hot Spot Analysis for ArcGIS 10.1 ([Tutorial](http://www.arcgis.com/home/item.html?id=6626d5cc81a745f1b737028f7a519521))
-1. Beyond Where: Modeling Spatial Relationships Using Regression Analysis ([Video](http://video.esri.com/watch/3871/modeling-spatial-relationships-using-regression-analysis), [PDF](https://esri.box.com/shared/static/u7z6aee6azp2gigpnl1sh2e7fbkuc9yc.pdf))
+1. Beyond Where: Modeling Spatial Relationships Using Regression Analysis ([Video](http://video.esri.com/watch/3871/modeling-spatial-relationships-using-regression-analysis), [PDF](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd))
 1. Beyond Where: Using Regression Analysis to Explore Why ([Tutorial](http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&courseID=2586))
 
 
