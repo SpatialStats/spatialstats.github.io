@@ -19,7 +19,7 @@ Under the ‘Issues’ section of the r-bridge-install page, users can post dire
 
 ### R ArcGIS Bridge GeoNet Community
 
-We regularly post blogs, demo videos, or content from presentations on the bridge [here](https://community.esri.com/groups/rstats). Additionally, there is a forum where users can ask questions to either other users or to the R-ArcGIS bridge team.
+We regularly post blogs, demo videos, or content from presentations on the bridge [on GeoNet](https://community.esri.com/groups/rstats). Additionally, there is a forum where users can ask questions to either other users or to the R-ArcGIS bridge team.
 
 
 ### Installation Instructions
