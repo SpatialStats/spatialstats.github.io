@@ -40,7 +40,7 @@ Looking to install the bridge? We have [detailed instructions](https://github.co
 
 
 
-### Resources to get started using the R-ArcGIS Bridge
+### Resources to Get Started Using the R-ArcGIS Bridge
 
 
 #### Using the R-ArcGIS Bridge - Web Course
