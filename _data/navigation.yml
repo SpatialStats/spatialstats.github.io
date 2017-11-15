@@ -48,6 +48,9 @@
   url: "/r-arcgis-bridge/"
   side: left
 
+- title: "Add-in"
+  url: "/addin/"
+  side: left
 
 # - title: TOREMOVEResources
 #   url: "/resources/"
