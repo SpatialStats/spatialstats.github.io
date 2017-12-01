@@ -51,7 +51,7 @@ Combine the power of ArcGIS and R to solve complex spatial problems with the R-A
 #### Analyze Crime Using Statistics and the R-ArcGIS Bridge
 
 <br>
-<img src="/images/R_Learn_med_v2.png" alt="hi" class="inline"/>
+<img src="/images/R_Learn_med_v2.png" alt="Using the R ArcGIS bridge to analyze crime" class="inline"/>
 <br>
 Do you want to try out the R-ArcGIS Bridge? Use [this Learn ArcGIS Lesson](https://learn.arcgis.com/en/projects/analyze-crime-using-statistics-and-the-r-arcgis-bridge/) to analyze crime patterns in San Francisco using hot spot analysis, Empirical Bayes smoothing and correlation matrices.
 
