@@ -51,11 +51,16 @@ homepage: true
 
 Whenever we look at a map, we inherently start turning that map into information by finding patterns, assessing trends, or making decisions. Spatial statistics empowers you to answer questions confidently and make important decisions using more than simple visual analysis. We have compiled some of our favorite resources including our latest Esri User Conference [presentations]({{ site.baseurl }}{% link pages/presentations.md %}), hands-on [tutorials]({{ site.baseurl }}{% link pages/hands-on.md %}) and everything you need to get started using the [Esri R-ArcGIS Bridge]({{ site.baseurl }}{% link pages/r-arcgis-bridge.md %}). If you have questions or awesome analysis stories, there is a [Spatial Statistics Forum](https://community.esri.com/community/gis/analysis/spatial-statistics) on GeoNet — We’d love to hear from you!
 
+#### What’s New ?
+
+A big focus for our team with the release of ArcGIS Pro 2.1 was new clustering tools. The Spatially Constrained Multivariate Clustering tool allows you to cluster your data based on both spatial relationships and attribute values. Creating clusters without spatial constraints has been improved with the release of the Multivariate Clustering tool. The Density-based Clustering tool puts the focus on location with spatial clustering using the powerful OPTICS, DBSCAN and HDBSCAN algorithms. 
+
+#### Future Development
+
+We are always busy working on new tools to explore data in innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on prediction, classification and clustering of spatial data. 
+
 #### The Space Time Cube Explorer
 The Space Time Cube Explorer (STCE) add-in can help you interact with and explore your space-time cube and analysis results created with the [Space Time Pattern Mining toolbox](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm) in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a [defined locations cube](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/createcubefromdefinedlocations.htm) and enhanced time and range slider settings. You can download the add-in at [http://esriurl.com/SpaceTimeCubeExplorer](http://www.esriurl.com/SpaceTimeCubeExplorer).
 
 #### The Spatial Statistics Team is Growing
-Does spatial analysis exhilarate you?  Do you find solving tough problems thrilling?  If you said yes, we are looking for a few people just like you! Come join our passionate team of hard working and close-knit developers and product engineers working to advance space-time data exploration and analysis techniques.  Check out our job postings [here](http://www.esri.com/careers/main/job-detail?jobID=7220&term=Full%20Time&jobtype=ArcGIS%20Product%20Engineering&location=Redlands,%20CA&capath=&loc=&jsearch=Spatial%20Stat)
-
-#### Coming Soon
-Our team is currently developing new clustering tools which will be released in ArcGIS Pro 2.1.
+Does spatial analysis exhilarate you?  Do you find solving tough problems thrilling?  If you said yes, we are looking for a few people just like you! Come join our passionate team of hard working and close-knit developers and product engineers working to advance space-time data exploration and analysis techniques.  Check out our job postings [here](https://www.esri.com/en-us/about/careers/job-detail?req=7220&title=Spatial%20Statistics%20and%20Space%20Time%20Pattern%20Mining%20Product%20Engineer)
