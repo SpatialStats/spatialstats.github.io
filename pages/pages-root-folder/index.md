@@ -53,7 +53,7 @@ Whenever we look at a map, we inherently start turning that map into information
 
 #### What’s New ?
 
-A big focus for our team with the release of ArcGIS Pro 2.1 was new clustering tools. The Spatially Constrained Multivariate Clustering tool allows you to cluster your data based on both spatial relationships and attribute values. Creating clusters without spatial constraints has been improved with the release of the Multivariate Clustering tool. The Density-based Clustering tool puts the focus on location with spatial clustering using the powerful OPTICS, DBSCAN and HDBSCAN algorithms. 
+A big focus for our team with the release of ArcGIS Pro 2.1 was [new clustering tools](https://blogs.esri.com/esri/arcgis/2018/01/22/pro-2-1-new-clustering-tools/). The Spatially Constrained Multivariate Clustering tool allows you to cluster your data based on both spatial relationships and attribute values. Creating clusters without spatial constraints has been improved with the release of the Multivariate Clustering tool. The Density-based Clustering tool puts the focus on location with spatial clustering using the powerful OPTICS, DBSCAN and HDBSCAN algorithms. 
 
 #### Future Development
 
