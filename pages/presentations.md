@@ -9,6 +9,8 @@ permalink: "/presentations/"
 ---
 
 
+<<<<<<< HEAD
+=======
 <div id="overview_div" markdown="1" class="row">
 <!-- ## Esri User Conference 2017 Presentations -->
 <div class="small-12 large-6 columns" markdown="1" top="0">
@@ -19,6 +21,21 @@ permalink: "/presentations/"
 
 This workshop covers traditional and spatial Machine Learning tools currently in ArcGIS. These data-driven algorithms and techniques  are used for prediction, classification, and clustering of data with applications in image classification, spatial pattern detection, multivariate prediction and more. | [Slides](https://esri.box.com/v/spatialML)
 </div>
+
+
+<div class="small-12 large-6 columns" markdown="1" top="0">
+
+
+<div align="center"><img src="/images/Data_Viz_banner_SM.png" alt="Data Visualization for Spatial Analysis" class="inline"/></div>
+
+<h3 markdown="1">Data Visualization for Spatial Analysis
+</h3>
+
+Data visualization techniques within ArcGIS can help you explore your data, interpret the results of analysis, and communicate findings. Using maps, charts and 3D scenes can help you compare categories and amounts, visualize distributions and frequency, explore relationships and correlations, and understand change over time or distance.
+ | [Slides](https://esri.box.com/v/spatialstats5)
+</div>
+</div>
+
 
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
