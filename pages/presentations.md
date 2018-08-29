@@ -13,7 +13,7 @@ permalink: "/presentations/"
 <!-- ## Esri User Conference 2017 Presentations -->
 <div class="small-12 large-6 columns" markdown="1" top="0">
 
-<div align="center"><img src="/images/machine_learning_SM.png" alt="Machine Learning in ArcGIS" class="inline" /></div>
+<div align="center"><a href="https://youtu.be/duZ7jor_YrU" target="_blank"><img src="/images/machine_learning_SM_play.png" alt="Machine Learning in ArcGIS" class="inline" /></div>
 
 <h3 markdown="1">Machine Learning in ArcGIS</h3>
 
@@ -24,7 +24,7 @@ This workshop covers traditional and spatial Machine Learning tools currently in
 <div class="small-12 large-6 columns" markdown="1" top="0">
 
 
-<div align="center"><img src="/images/Data_Viz_banner_SM.png" alt="Data Visualization for Spatial Analysis" class="inline"/></div>
+<div align="center"><a href="https://youtu.be/1k7sryECatk" target="_blank"><img src="/images/Data_Viz_banner_SM_play.png" alt="Data Visualization for Spatial Analysis" class="inline"/></div>
 
 <h3 markdown="1">Data Visualization for Spatial Analysis
 </h3>
@@ -41,7 +41,7 @@ Data visualization techniques within ArcGIS can help you explore your data, inte
 
 <div align="center"><a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/simple-approach2-sm-play.png" alt="Introduction to Spatial Statistics, spatial distribution nearest neighbours and cluster analysis" class="inline" /></a></div>
 
-<h3 markdown="1">[Using Spatial Statistics to do More: Simple Approaches](https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR){:target="_blank"}</h3>
+<h3 markdown="1">[Using Spatial Statistics to do More: Simple Approaches](https://youtu.be/i4S7yPkGVd0){:target="_blank"}</h3>
 
 This high-level overview will equip you with the basic knowledge necessary to get started exploring your data in new and meaningful ways. Stepping through many of the Spatial Statistics tools, we will discuss how the tools function and provide a variety of example applications to demonstrate the range of questions that can be answered. | [Slides](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95) | [2018 UC Slides](https://esri.box.com/v/spatialstats1)
 </div> 
@@ -76,7 +76,7 @@ Space and time are inseparable, and integrating the temporal aspect of your data
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
 <div align="center"><a href="http://www.esri.com/videos/watch?videoid=3871&isLegacy=true&title=modeling-spatial-relationships-using-regression-analysis" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
-<h3 markdown="1">[Modeling Spatial Relationships Using Regression Analysis](http://www.esri.com/videos/watch?videoid=3871&isLegacy=true&title=modeling-spatial-relationships-using-regression-analysis){:target="_blank"}</h3>
+<h3 markdown="1">[Modeling Spatial Relationships Using Regression Analysis](https://youtu.be/5_tbFFeYXWM){:target="_blank"}</h3>
 
 This workshop covers regression analysis concepts for the analysis of geographic data. Regression analysis allows you to examine, model, and explore data relationships to help answer “why?” questions, such as “why do we see so much disease in particular areas?”. | [Slides](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd) | [2018 UC Slides](https://esri.box.com/v/spatialstats4)
 </div>
@@ -88,9 +88,9 @@ This workshop covers regression analysis concepts for the analysis of geographic
 
 <div align="center"><a href="https://www.youtube.com/watch?v=YQ7JQi13_B0" target="_blank"><img src="/images/R_Pres_Small-play.png" alt="The R ArcGIS bridge combines visualziation ArcGIS Pro and analysis with R" class="inline"/></a></div>
 
-<h3 markdown="1">[Data Science Made Easy in ArcGIS using Python and R](https://www.youtube.com/watch?v=YQ7JQi13_B0){:target="_blank"}</h3>
+<h3 markdown="1">[Integrating R and ArcGIS for Advanced Analysis](https://youtu.be/i6Pc8SwWpyM){:target="_blank"}</h3>
 
-Python and R provide a wide array of powerful modules that can expand the data science capabilities of ArcGIS. This session outlines integration techniques that allow you to call open source statistical packages to quantify patterns and relationships in your data. | [Slides](https://esri.box.com/s/wz3aqctn69bord0cwmxfouoxtbc2gbyj)
+Python and R provide a wide array of powerful modules that can expand the data science capabilities of ArcGIS. This session outlines integration techniques that allow you to call open source statistical packages to quantify patterns and relationships in your data.
 </div>
 </div>
 
