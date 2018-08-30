@@ -9,7 +9,6 @@ permalink: "/presentations/"
 ---
 
 
-<<<<<<< HEAD
 =======
 <div id="overview_div" markdown="1" class="row">
 <!-- ## Esri User Conference 2017 Presentations -->
