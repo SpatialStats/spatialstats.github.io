@@ -18,7 +18,7 @@ permalink: "/presentations/"
 <img src="/images/machine_learning_SM_play.png" alt="Machine Learning in ArcGIS" class="inline" /></a>
 </div>
 
-<h3 markdown="1">Machine Learning in ArcGIS</h3>
+<h3 markdown="1">[Machine Learning in ArcGIS](https://youtu.be/duZ7jor_YrU){:target="_blank"}</h3>
 
 This workshop covers traditional and spatial Machine Learning tools currently in ArcGIS. These data-driven algorithms and techniques  are used for prediction, classification, and clustering of data with applications in image classification, spatial pattern detection, multivariate prediction and more. | [Slides](https://esri.box.com/v/spatialML)
 </div>
@@ -29,8 +29,7 @@ This workshop covers traditional and spatial Machine Learning tools currently in
 
 <div align="center"><a href="https://youtu.be/1k7sryECatk" target="_blank"><img src="/images/Data_Viz_banner_SM_play.png" alt="Data Visualization for Spatial Analysis" class="inline"/></a></div>
 
-<h3 markdown="1">Data Visualization for Spatial Analysis
-</h3>
+<h3 markdown="1">[Data Visualization for Spatial Analysis](https://youtu.be/1k7sryECatk){:target="_blank"}</h3>
 
 Data visualization techniques within ArcGIS can help you explore your data, interpret the results of analysis, and communicate findings. Using maps, charts and 3D scenes can help you compare categories and amounts, visualize distributions and frequency, explore relationships and correlations, and understand change over time or distance.
  | [Slides](https://esri.box.com/v/spatialstats5)
@@ -42,11 +41,11 @@ Data visualization techniques within ArcGIS can help you explore your data, inte
 <!-- ## Esri User Conference 2017 Presentations -->
 <div class="small-12 large-6 columns" markdown="1" top="0">
 
-<div align="center"><a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&index=43&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/simple-approach2-sm-play.png" alt="Introduction to Spatial Statistics, spatial distribution nearest neighbours and cluster analysis" class="inline" /></a></div>
+<div align="center"><a href="https://youtu.be/i4S7yPkGVd0" target="_blank"><img src="/images/simple-approach2-sm-play.png" alt="Introduction to Spatial Statistics, spatial distribution nearest neighbours and cluster analysis" class="inline" /></a></div>
 
-<h3 markdown="1">[Using Spatial Statistics to do More: Simple Approaches](https://youtu.be/i4S7yPkGVd0){:target="_blank"}</h3>
+<h3 markdown="1">[From Means and Medians to Machine Learning: Spatial Statistics Basics and Innovations](https://youtu.be/i4S7yPkGVd0){:target="_blank"}</h3>
 
-This high-level overview will equip you with the basic knowledge necessary to get started exploring your data in new and meaningful ways. Stepping through many of the Spatial Statistics tools, we will discuss how the tools function and provide a variety of example applications to demonstrate the range of questions that can be answered. | [Slides](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95) | [2018 UC Slides](https://esri.box.com/v/spatialstats1)
+From simple methods for summarizing and describing spatial patterns to advanced machine learning clustering techniques, this workshop will introduce you to the power of spatial statistics and equip you with the knowledge necessary to get started exploring your data in new and useful ways. Concepts covered include describing the shape and spatial distribution of your data; comparing datasets in meaningful defensible ways; identifying spatial clusters; and mining for multivariate patterns. | [Slides](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95) | [2018 UC Slides](https://esri.box.com/v/spatialstats1)
 </div> 
 
 
@@ -55,10 +54,9 @@ This high-level overview will equip you with the basic knowledge necessary to ge
 
 <div align="center"><a href="https://www.youtube.com/watch?v=qQNOlfOYtyw&index=51&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/essentials-cluster-sm2-play.png" alt="Using Spatial Statistics for data mining and cluster analysis" class="inline"/></a></div>
 
-<h3 markdown="1">[Spatial Data Mining I: Essentials of Cluster Analysis
-](https://www.youtube.com/watch?v=qQNOlfOYtyw&index=51&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR){:target="_blank"}</h3>
+<h3 markdown="1">[Essentials of Cluster Analysis: Pattern Mining in Space and Time](https://www.youtube.com/watch?v=qQNOlfOYtyw&index=51&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR){:target="_blank"}</h3>
 
-Whenever we look at a map, it is natural for us to organize, group, differentiate, and cluster what we see to help us make better sense of it. This session will explore the powerful Spatial Statistics techniques designed to do just that: Hot Spot Analysis and Cluster and Outlier Analysis. | [Slides](https://esri.box.com/s/yvdmwwbgnxzo11fpv54knngxui3pjs5f) | [2018 UC Slides](https://esri.box.com/v/spatialstats2)
+Measuring and quantifying the patterns that we see is crucial for informed decision making. This workshop will explore the powerful spatial statistics techniques designed to quantify spatial and spatiotemporal patterns. Concepts covered include aggregating data spatially and temporally; identifying clusters and outliers in both space and in time; and best practices for interpreting and sharing your results. | [Slides](https://esri.box.com/s/yvdmwwbgnxzo11fpv54knngxui3pjs5f) | [2018 UC Slides](https://esri.box.com/v/spatialstats2)
 </div>
 </div>
 
@@ -70,7 +68,7 @@ Whenever we look at a map, it is natural for us to organize, group, differentiat
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
 <div align="center"><a href="https://www.youtube.com/watch?v=0aV6HHwJuo4&index=50&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR" target="_blank"><img src="/images/cube-sm-play.png" alt="Space time pattern mining using the space time cube" class="inline"/></a></div>
-<h3 markdown="1">[Spatial Data Mining II: A Deep Dive Into Space-Time Analysis](https://www.youtube.com/watch?v=0aV6HHwJuo4&index=50&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR){:target="_blank"}</h3>
+<h3 markdown="1">[Spatial Data Mining: A Deep Dive Into Space-Time Analysis](https://www.youtube.com/watch?v=0aV6HHwJuo4&index=50&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR){:target="_blank"}</h3>
 
 Space and time are inseparable, and integrating the temporal aspect of your data into your spatial analysis leads to powerful discoveries. This workshop will build on the cluster analysis methods discussed in Spatial Data Mining I by presenting advanced techniques for analyzing your data in the context of both space and time. | [Slides](https://esri.box.com/s/5a7ox8tmdj0ib46e0prolceuh0ydtfkm) | [2018 UC Slides](https://esri.box.com/v/spatialstats3)
 </div> 
@@ -78,10 +76,10 @@ Space and time are inseparable, and integrating the temporal aspect of your data
 
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
-<div align="center"><a href="http://www.esri.com/videos/watch?videoid=3871&isLegacy=true&title=modeling-spatial-relationships-using-regression-analysis" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
-<h3 markdown="1">[Modeling Spatial Relationships Using Regression Analysis](https://youtu.be/5_tbFFeYXWM){:target="_blank"}</h3>
+<div align="center"><a href="https://youtu.be/5_tbFFeYXWM" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
+<h3 markdown="1">[Modeling Spatial Relationships: Concepts for Regression and Classification ](https://youtu.be/5_tbFFeYXWM){:target="_blank"}</h3>
 
-This workshop covers regression analysis concepts for the analysis of geographic data. Regression analysis allows you to examine, model, and explore data relationships to help answer “why?” questions, such as “why do we see so much disease in particular areas?”. | [Slides](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd) | [2018 UC Slides](https://esri.box.com/v/spatialstats4)
+This workshop will cover techniques for modeling our spatial data to uncover relationships and predict spatial outcomes. Concepts covered include linear regression techniques (Ordinary Least Squares, and Geographically Weighted Regression); and the new machine learning method for regression and classification (Forest-based Classification and Regression). | [Slides](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd) | [2018 UC Slides](https://esri.box.com/v/spatialstats4)
 </div>
 
 </div>
@@ -89,7 +87,7 @@ This workshop covers regression analysis concepts for the analysis of geographic
 <div id="overview_div" markdown="1" class="row">
 <div class="small-12 large-6 columns" markdown="1">
 
-<div align="center"><a href="https://www.youtube.com/watch?v=YQ7JQi13_B0" target="_blank"><img src="/images/R_Pres_Small-play.png" alt="The R ArcGIS bridge combines visualziation ArcGIS Pro and analysis with R" class="inline"/></a></div>
+<div align="center"><a href="https://youtu.be/i6Pc8SwWpyM" target="_blank"><img src="/images/R_Pres_Small-play.png" alt="The R ArcGIS bridge combines visualziation ArcGIS Pro and analysis with R" class="inline"/></a></div>
 
 <h3 markdown="1">[Integrating R and ArcGIS for Advanced Analysis](https://youtu.be/i6Pc8SwWpyM){:target="_blank"}</h3>
 
