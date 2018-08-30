@@ -13,7 +13,10 @@ permalink: "/presentations/"
 <!-- ## Esri User Conference 2017 Presentations -->
 <div class="small-12 large-6 columns" markdown="1" top="0">
 
-<div align="center"><a href="https://youtu.be/duZ7jor_YrU" target="_blank"><img src="/images/machine_learning_SM_play.png" alt="Machine Learning in ArcGIS" class="inline" /></div>
+<div align="center">
+<a href="https://youtu.be/duZ7jor_YrU" target="_blank">
+<img src="/images/machine_learning_SM_play.png" alt="Machine Learning in ArcGIS" class="inline" /></a>
+</div>
 
 <h3 markdown="1">Machine Learning in ArcGIS</h3>
 
@@ -33,10 +36,6 @@ Data visualization techniques within ArcGIS can help you explore your data, inte
  | [Slides](https://esri.box.com/v/spatialstats5)
 </div>
 </div>
-
-
-
-
 
 
 <div id="overview_div" markdown="1" class="row">
