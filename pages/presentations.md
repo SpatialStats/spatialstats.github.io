@@ -36,18 +36,7 @@ Data visualization techniques within ArcGIS can help you explore your data, inte
 
 
 
-<div class="small-12 large-6 columns" markdown="1" top="0">
 
-
-<div align="center"><a href="https://youtu.be/1k7sryECatk" target="_blank"><img src="/images/Data_Viz_banner_SM_play.png" alt="Data Visualization for Spatial Analysis" class="inline"/></div>
-
-<h3 markdown="1">Data Visualization for Spatial Analysis
-</h3>
-
-Data visualization techniques within ArcGIS can help you explore your data, interpret the results of analysis, and communicate findings. Using maps, charts and 3D scenes can help you compare categories and amounts, visualize distributions and frequency, explore relationships and correlations, and understand change over time or distance.
- | [Slides](https://esri.box.com/v/spatialstats5)
-</div>
-</div>
 
 
 <div id="overview_div" markdown="1" class="row">
