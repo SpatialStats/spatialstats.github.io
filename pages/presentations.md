@@ -45,7 +45,7 @@ Data visualization techniques within ArcGIS can help you explore your data, inte
 
 <h3 markdown="1">[From Means and Medians to Machine Learning: Spatial Statistics Basics and Innovations](https://youtu.be/i4S7yPkGVd0){:target="_blank"}</h3>
 
-From simple methods for summarizing and describing spatial patterns to advanced machine learning clustering techniques, this workshop will introduce you to the power of spatial statistics and equip you with the knowledge necessary to get started exploring your data in new and useful ways. Concepts covered include describing the shape and spatial distribution of your data; comparing datasets in meaningful defensible ways; identifying spatial clusters; and mining for multivariate patterns. | [Slides](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95) | [2018 UC Slides](https://esri.box.com/v/spatialstats1)
+From simple methods for summarizing and describing spatial patterns to advanced machine learning clustering techniques, this workshop will introduce you to the power of spatial statistics and equip you with the knowledge necessary to get started exploring your data in new and useful ways. Concepts covered include describing the shape and spatial distribution of your data; comparing datasets in meaningful defensible ways; identifying spatial clusters; and mining for multivariate patterns. | [Slides](https://esri.box.com/v/spatialstats1)
 </div> 
 
 
@@ -79,7 +79,7 @@ Space and time are inseparable, and integrating the temporal aspect of your data
 <div align="center"><a href="https://youtu.be/5_tbFFeYXWM" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
 <h3 markdown="1">[Modeling Spatial Relationships: Concepts for Regression and Classification ](https://youtu.be/5_tbFFeYXWM){:target="_blank"}</h3>
 
-This workshop will cover techniques for modeling our spatial data to uncover relationships and predict spatial outcomes. Concepts covered include linear regression techniques (Ordinary Least Squares, and Geographically Weighted Regression); and the new machine learning method for regression and classification (Forest-based Classification and Regression). | [Slides](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd) | [2018 UC Slides](https://esri.box.com/v/spatialstats4)
+This workshop will cover techniques for modeling our spatial data to uncover relationships and predict spatial outcomes. Concepts covered include linear regression techniques (Ordinary Least Squares, and Geographically Weighted Regression); and the new machine learning method for regression and classification (Forest-based Classification and Regression). | [Slides](https://esri.box.com/v/spatialstats4)
 </div>
 
 </div>
