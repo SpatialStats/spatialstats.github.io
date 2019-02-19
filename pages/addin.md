@@ -18,8 +18,8 @@ You can watch a Live Training Seminar that covers the essentials of the Space Ti
 
 #### Download
 
-* [Add-in for ArcGIS Pro version 2.3](https://www.arcgis.com/home/item.html?id=dce0c8ac67d042099e88c17464513451)
-* [Add-in for ArcGIS Pro version 2.2](https://www.arcgis.com/home/item.html?id=a1e11bbec5f64fa786d604d3f14e9ce1)
+* [Add-in for ArcGIS Pro version 2.3](https://www.arcgis.com/home/item.html?id=c3c91f4cc26447748bd059744eeb2c4f)
+* [Add-in for ArcGIS Pro version 2.2](https://www.arcgis.com/home/item.html?id=fbd5261477bf4ee696e2026b92e4ec33)
 * [Add-in for ArcGIS Pro version 2.1](https://www.arcgis.com/home/item.html?id=e5f067dbe6074de3adf2c38de4b079d9)
 * [Add-in for ArcGIS Pro version 2.0 and 2.0.1](http://www.arcgis.com/home/item.html?id=ffd5be434d394341ad1f89cd29c19e20)
 * [Add-in for ArcGIS Pro versions 1.3, 1.4, 1.4.1](https://www.arcgis.com/home/item.html?id=5c85bf58f8584d2faa5b1b76a2807dca)
