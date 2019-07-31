@@ -86,4 +86,21 @@ permalink: "/hands-on/"
 * [How geographically weighted regression works](http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-gwr-regression-works.htm)
 </div>
 
+<div id="overview_div" markdown="1" class="row">
+<div class="small-12 large-6 columns" markdown="1" top="0">
+<div align="center" markdown="1">
+### Machine Learning
+<a href="https://www.youtube.com/watch?v=duZ7jor_YrU&feature=youtu.be" target="_blank"><img src="/images/machine_learning_SM_play.png" alt="Machine Learning in ArcGIS" class="inline"/></a>
+</div>
+#### Hands-on
+
+* [Downscale Climate Data](https://learn.arcgis.com/en/projects/downscale-climate-data-with-machine-learning/) - Analyze the relationship between simulated global circulation model variables and energy transfer in the atmosphere
+* [Predict Seagrass Habitats](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) - Predict seagrass habitats using machine learning tools and spatial analysis
+
+#### Key Documentation
+
+* [How the Forest-based Classification and Regression tool works](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-forest-works.htm)
+* [How Generalized Linear Regression works](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-glr-works.htm)
+</div>
+
 </div>
