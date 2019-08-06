@@ -76,10 +76,10 @@ Space and time are inseparable, and integrating the temporal aspect of your data
 
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
-<div align="center"><a href="https://youtu.be/5_tbFFeYXWM" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
-<h3 markdown="1">[Modeling Spatial Relationships: Concepts for Regression and Classification ](https://youtu.be/5_tbFFeYXWM){:target="_blank"}</h3>
+<div align="center"><a href="https://www.youtube.com/watch?v=ob18SuuAJGI" target="_blank"><img src="/images/model-regression-banner-sm-play.png" alt="Model your data using regression analysis to discover relationships between variables" class="inline"/></a></div>
+<h3 markdown="1">[Beyond Where:  Modeling Spatial Relationships and Making Predictions](https://www.youtube.com/watch?v=ob18SuuAJGI){:target="_blank"}</h3>
 
-This workshop will cover techniques for modeling our spatial data to uncover relationships and predict spatial outcomes. Concepts covered include linear regression techniques (Ordinary Least Squares, and Geographically Weighted Regression); and the new machine learning method for regression and classification (Forest-based Classification and Regression). | [Slides](https://esri.box.com/v/spatialstats4)
+This workshop covers techniques for modeling our spatial data to uncover relationships and predict spatial outcomes. Concepts covered include linear regression techniques (Ordinary Least Squares, and Geographically Weighted Regression) and explain different model types; and the new tool for detecting relationships between two variables, Local Bivariate Relationships.| [2018 UC Slides](https://esri.box.com/v/spatialstats4)
 </div>
 
 </div>
@@ -93,4 +93,15 @@ This workshop will cover techniques for modeling our spatial data to uncover rel
 
 Python and R provide a wide array of powerful modules that can expand the data science capabilities of ArcGIS. This session outlines integration techniques that allow you to call open source statistical packages to quantify patterns and relationships in your data.
 </div>
+
+<div class="small-12 large-6 columns" markdown="1" top="0">
+
+
+<div align="center"><a href="https://www.youtube.com/watch?v=kDAL2mKnae8" target="_blank"><img src="/images/Forest_Pres_Small-play.png" alt="Using Spatial Statistics for data mining and cluster analysis" class="inline"/></a></div>
+
+<h3 markdown="1">[The Forest for the Trees:  Making Predictions using Forest-based Classification and Regression](https://www.youtube.com/watch?v=kDAL2mKnae8){:target="_blank"}</h3>
+
+This workshop will cover the basics of how the widely-used machine learning approach, random forest, can be used to solve complex spatial problems and make effective predictions. Learn how the Forest-based Classification and Regression tool brings together both vector and raster data in powerful ways and learn how to evaluate your model using a number of validation techniques and diagnostics. | [Slides](https://esri.app.box.com/s/qe64dus6dqybeclzejc8zhsukey94yro/file/496093527888) 
+</div>
+
 </div>
