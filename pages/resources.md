@@ -41,14 +41,6 @@ The Space Time Cube Explorer add-in can help you interact with and explore your 
 
 You can download the Add-in at [www.esriurl.com/SpaceTimeCubeExplorer](http://www.esriurl.com/SpaceTimeCubeExplorer) .
 
-### Presentations from the User Conference ###
-* Using Spatial Statistics to do More: Simple Approaches ([2017 Video](https://www.youtube.com/watch?v=3d_8nQpSCgE&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&index=43), [2017 PDF](https://esri.box.com/s/mkh8wqoisjsv04ftfch4agtske984q95))
-* Spatial Data Mining I: Essentials of Cluster Analysis ([2017 Video](https://www.youtube.com/watch?v=qQNOlfOYtyw&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&index=51), [2017 PDF](https://esri.box.com/s/yvdmwwbgnxzo11fpv54knngxui3pjs5f))
-* Spatial Data Mining II: A Deep Dive into Space-Time Analysis ([2017 Video](https://www.youtube.com/watch?v=0aV6HHwJuo4&list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&index=50), [2017 PDF](https://esri.box.com/s/5a7ox8tmdj0ib46e0prolceuh0ydtfkm))
-* Beyond Where: Modeling Spatial Relationships Using Regression Analysis ([Video](http://video.esri.com/watch/3871/modeling-spatial-relationships-using-regression-analysis), [PDF](https://esri.box.com/s/3vhzjz7eiv5t6e1jbe17mdgsbs8j4wgd))
-* Applying Spatial Statistics: The Analysis Process in Action ([Video](http://video.esri.com/watch/4716/applying-spatial-statistics-the-analysis-process-in-action))
-
-
 ### Brand new to spatial statistics ###
 #### Start here > ####
 
