@@ -12,6 +12,10 @@ permalink: "/hands-on/"
 
 
 <div id="overview_div" markdown="1" class="row">
+
+
+
+
 <div class="small-12 large-6 columns" markdown="1" top="0">
 <div align="center" markdown="1">
 
@@ -22,6 +26,13 @@ permalink: "/hands-on/"
 #### Hands-on
 * [Learn Lesson](https://learn.arcgis.com/en/projects/build-a-machine-learning-driven-house-valuation-model/) Build a Machine Learning-Driven House Valuation Model <span style="color:red; font-size: 70%; ">*new*</span>
 </div>
+
+
+<div class="small-12 large-6 columns" markdown="1" top="0">
+<div align="center" markdown="1">
+</div>
+</div>
+
 
 
 <div class="small-12 large-6 columns" markdown="1" top="0">
@@ -42,12 +53,12 @@ permalink: "/hands-on/"
 * [What is a z-score?](http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/what-is-a-z-score-what-is-a-p-value.htm)
 
 </div>
-</div>
 
 
 
 
-<div id="overview_div" markdown="1" class="row">
+
+
 <div class="small-12 large-6 columns" markdown="1" top="0">
 <div align="center" markdown="1">
 
@@ -61,11 +72,11 @@ permalink: "/hands-on/"
 * [Analyzing Crashes](http://desktop.arcgis.com/en/analytics/case-studies/analyzing-crashes-1-overview.htm) - Using the space time cube to evaluate accident risk
 
 #### Key Documentation
-* [Space time cube explorer](http://esriurl.com/spacetimecubeexplorer)
 * [The space time pattern mining toolbox](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm)
 * [Learn more about create cube](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/learnmorecreatecube.htm)
 * [Visualizing space time cube data](http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/visualizing-cube-data.htm)
 </div>
+
 
 
 
@@ -90,7 +101,6 @@ permalink: "/hands-on/"
 
 
 
-<div id="overview_div" markdown="1" class="row">
 <div class="small-12 large-6 columns" markdown="1" top="0">
 <div align="center" markdown="1">
 
@@ -107,5 +117,6 @@ permalink: "/hands-on/"
 * [How the Forest-based Classification and Regression tool works](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-forest-works.htm)
 * [How Generalized Linear Regression works](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-glr-works.htm)
 </div>
+
 
 </div>

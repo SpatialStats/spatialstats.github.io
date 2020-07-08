@@ -44,7 +44,7 @@ The [ArcGIS Pro COVID-19 Modeling Toolbox](https://www.arcgis.com/home/item.html
 - COVID-19Surge tool ([Video](https://www.youtube.com/watch?v=8AfVrB8Ig5E)) 
 - Analyze COVID-19 Risk Using ArcGIS Pro ([Lesson](https://learngis.maps.arcgis.com/home/item.html?id=b49f4226fd1f4bccb72ab5d308c7da73)) 
 - Evaluate County Readiness for Relaxing Stay-at-Home Measures ([Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-pro/health/evaluate-county-readiness-for-relaxing-stay-at-home-measures/)) 
-- Evaluate COVID-19 Financial Vulnerability (lesson)
+- Evaluate COVID-19 Financial Vulnerability ([lesson](https://www.arcgis.com/sharing/rest/content/items/875c3ebc96764a2a8001ac731aa79028/data))
 - COVID-19 Response: Location Allocation ([Video](https://www.youtube.com/watch?v=tLO1T55Orac&feature=youtu.be)) 
 
 

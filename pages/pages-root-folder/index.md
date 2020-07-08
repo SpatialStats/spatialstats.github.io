@@ -63,29 +63,21 @@ Meet with the team in the UC showcase – look for Spatial Statistics in the Spa
 - The R‐ArcGIS Bridge and R Notebooks: An Introduction 
 - A Tour of the R‐ArcGIS Bridge 
 
-Tune into [part 2 of the plenary](https://userconference2020.schedule.esri.com/schedule/1141233282) to hear about some exciting new spatial statistics tools coming with ArcGIS Pro 2.6. 
+Tune into [part 2 of the plenary](https://userconference2020.schedule.esri.com/schedule/1141233282) to hear about some exciting new spatial statistics tools in ArcGIS Pro 2.6.
 
-Check other [Spatial Analysis and Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/spatial-analysis-and-data-science-at-the-2020-esri-user-conference/) sessions at the conference. 
+Be sure to check out the other [Spatial Analysis and Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/spatial-analysis-and-data-science-at-the-2020-esri-user-conference/) sessions on offer at the conference.
 
 This website is still here after the UC is finished! Be sure to check back in the coming weeks and months – we are always adding new content as new resources are created and with the release of each new version of ArcGIS Pro. 
- 
-##### Presentations
-coming soon. 
 
 
-### What’s New? <span style="color:red; font-size: 50%; ">*new*</span>
-We have some exciting things included in the ArcGIS Pro 2.6 release! 
+### What’s New?   
 
-The new Time Series Forecasting toolset has been added to the [Space Time Pattern Mining Toolbox](https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm). There are three forecast methods to choose according to the data and the use purpose (Curve Fit Forecast, Exponential Smoothing Forecast, Forest-based Forecast). The Evaluate Forecast by Locations tool allows comparing results of these methods easily. The Space Time Cube Explorer (STCE) add-in is enhanced to visualize forecast outputs and provides insights in a visual and intuitive way. 
+We are releasing several exciting new tools in the upcoming ArcGIS Pro 2.6 release!  
 
-Local Bivariate Relationships 
+The new Time Series Forecasting toolset has been added to the [Space Time Pattern Mining Toolbox](https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm). There are three forecast methods to choose from according to your data and use case (Curve Fit Forecast, Exponential Smoothing Forecast, Forest-based Forecast). The Evaluate Forecast by Locations tool allows you to easily compare results of these methods. The Space Time Cube Explorer (STCE) add-in has been enhanced to visualize forecast outputs, providing insights in a visual and intuitive way. New algorithms are implemented for [Time Series Clustering](https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/time-series-clustering.htm) to improve performance – making the tool hundreds of times faster! We enhanced the [Generate Network Spatial Weights](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/generate-network-spatial-weights.htm) to allow it to work with Network Analysis Services. In response to COVID-19, our team developed [analysis tools](https://spatialstats.github.io/resources/#covid-19-analysis) for local governments, hospitals and researchers. 
 
-New algorithms are implemented for [Time Series Clustering](https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/time-series-clustering.htm) to get better results, with the tool got hundreds of times faster as well. 
+In the release 2.5 earlier this year, the new [Colocation Analysis tool](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/colocationanalysis.htm) was added to the [Modeling Spatial Relationships toolset](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-modeling-spatial-relationships-toolset.htm). This tool measures local patterns of spatial association, or colocation, between two categories of point features using the colocation quotient statistic. 
 
-In addition, our team provides analysis tools for local governments, hospitals and researchers in response to COVID-19.
+### Future Development  
 
-
-### Future Development <span style="color:red; font-size: 50%; ">*new*</span>
-We are always busy working on new methods and new tools to help you explore your data in exciting and innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on categorical map comparison, Multiscale GWR, and presence-only prediction. In addition, we are developing tools for data preprocessing, spatial outlier detections and temporal outlier detections to make your data and analysis prep easier. 
-
-
+We are always busy working on new methods and new tools to help you explore your data in exciting and innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on outlier detection,  adding additional prediction methods, and a new data preprocessing environment to make your data and analysis preparation easier. 
