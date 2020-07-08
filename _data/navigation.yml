@@ -23,6 +23,8 @@
   url: "/resources/"
   side: left
   dropdown:
+  - title: "COVID-19 Analysis"
+    url: "/resources/#covid-19-analysis"
   - title: "Summarize"
     url: "/resources/#summarize"
   - title: "Find clusters"
