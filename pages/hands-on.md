@@ -25,6 +25,7 @@ permalink: "/hands-on/"
 
 #### Hands-on
 * [Learn Lesson](https://learn.arcgis.com/en/projects/build-a-machine-learning-driven-house-valuation-model/) Build a Machine Learning-Driven House Valuation Model <span style="color:red; font-size: 70%; ">*new*</span>
+* [Modeling Literacy](http://desktop.arcgis.com/en/analytics/case-studies/modeling-literacy.htm) - Model literacy data using ordinary least-square regression and K-means clustering.
 </div>
 
 
