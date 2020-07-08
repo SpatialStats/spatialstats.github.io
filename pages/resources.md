@@ -124,7 +124,6 @@ You can download the Add-in at [here](http://www.esriurl.com/SpaceTimeCubeExplor
 
 
 ### Articles and blogs  ###
-* Extend [Crime Analysis](http://www.esri.com/news/arcuser/0405/ss_crimestats1of2.html) with ArcGIS Spatial Statistics tools
 * Spatial Statistics Provide New Insights in [Disease Analysis](http://www.esri.com/news/arcuser/1207/ticks.html)
 * Download Our Chapter in the Handbook of Applied Spatial Analysis [here](http://www.springer.com/cda/content/document/cda_downloaddocument/9783642036460-c1.pdf?SGWID=0-0-45-855715-p173918949)
 * An interview on [Understanding Spatial Statistics and Geostatistic](http://www.esri.com/news/arcwatch/0410/lauren-scott.html)
