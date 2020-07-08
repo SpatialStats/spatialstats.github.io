@@ -80,4 +80,4 @@ In the release 2.5 earlier this year, the new [Colocation Analysis tool](https:/
 
 ### Future Development  
 
-We are always busy working on new methods and new tools to help you explore your data in exciting and innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on outlier detection,  adding additional prediction methods, and a new data preprocessing environment to make your data and analysis preparation easier. 
+We are always busy working on new methods and new tools to help you explore your data in exciting and innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on outlier detection, adding additional prediction methods, and a new data preprocessing environment to make your data and analysis preparation easier. 
