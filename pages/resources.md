@@ -124,6 +124,9 @@ You can download the Add-in at [here](http://www.esriurl.com/SpaceTimeCubeExplor
 
 
 ### Articles and blogs  ###
+* [R-ArcGIS Bridge Meetings the Cloud: Working with Remote Data] (https://www.esri.com/arcgis-blog/products/product/analytics/r-arcgis-bridge-meets-the-cloud-working-with-remote-data/) <span style="color:red; font-size: 50%; ">*new*</span>
+* [R Notebooks in ArcGIS Pro for Spatial Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/r-notebooks-in-arcgis-pro-for-spatial-data-science/) <span style="color:red; font-size: 50%; ">*new*</span>
+* [Bridging Into New Realms: R-ArcGIS Bridge and Microsoft R](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/bridging-into-new-realms-arcgis-bridge-and-microsoft-r/) <span style="color:red; font-size: 50%; ">*new*</span>
 * Spatial Statistics Provide New Insights in [Disease Analysis](http://www.esri.com/news/arcuser/1207/ticks.html)
 * Download Our Chapter in the Handbook of Applied Spatial Analysis [here](http://www.springer.com/cda/content/document/cda_downloaddocument/9783642036460-c1.pdf?SGWID=0-0-45-855715-p173918949)
 * An interview on [Understanding Spatial Statistics and Geostatistic](http://www.esri.com/news/arcwatch/0410/lauren-scott.html)
