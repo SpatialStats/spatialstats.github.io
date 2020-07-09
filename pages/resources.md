@@ -125,7 +125,7 @@ You can download the Add-in at [here](http://www.esriurl.com/SpaceTimeCubeExplor
 
 
 ### Articles and blogs  ###
-* [R-ArcGIS Bridge Meetings the Cloud: Working with Remote Data] (https://www.esri.com/arcgis-blog/products/product/analytics/r-arcgis-bridge-meets-the-cloud-working-with-remote-data/) <span style="color:red; font-size: 50%; ">*new*</span>
+* [R-ArcGIS Bridge Meetings the Cloud: Working with Remote Data](https://www.esri.com/arcgis-blog/products/product/analytics/r-arcgis-bridge-meets-the-cloud-working-with-remote-data/) <span style="color:red; font-size: 50%; ">*new*</span>
 * [R Notebooks in ArcGIS Pro for Spatial Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/r-notebooks-in-arcgis-pro-for-spatial-data-science/) <span style="color:red; font-size: 50%; ">*new*</span>
 * [Bridging Into New Realms: R-ArcGIS Bridge and Microsoft R](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/bridging-into-new-realms-arcgis-bridge-and-microsoft-r/) <span style="color:red; font-size: 50%; ">*new*</span>
 * Spatial Statistics Provide New Insights in [Disease Analysis](http://www.esri.com/news/arcuser/1207/ticks.html)
