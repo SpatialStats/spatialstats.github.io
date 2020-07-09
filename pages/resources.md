@@ -113,6 +113,7 @@ You can download the Add-in at [here](http://www.esriurl.com/SpaceTimeCubeExplor
 
 ### Putting it all together ###
 #### Walk through a real analysis from start to finish ####
+* Use Python, R and ArcGIS to model plastic pollution ([Video](https://www.youtube.com/watch?v=cNynzdFbhZ8)) <span style="color:red; font-size: 70%; ">*new*</span>
 * Combating Homelessness in Los Angeles County ([Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/combating-homelessness-in-los-angeles-county-case-study-and-tutorial/)) <span style="color:red; font-size: 70%; ">*new*</span>
 * Analyze traffic accident patterns ([Story Map](http://eath.maps.arcgis.com/apps/Cascade/index.html?appid=9a27635635c940539b96fb5ef954e4d5))
 * A smart site selection scenario using Hot Spot Analysis, Similarity Search and other analytical methods ([Tutorial](http://desktop.arcgis.com/en/analytics/case-studies/locating-a-new-retirement-community.htm))
