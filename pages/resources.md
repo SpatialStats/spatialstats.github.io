@@ -12,10 +12,7 @@ Whenever we look at a map, we inherently start turning that map into
 information by finding patterns, assessing trends, or making decisions.
 Spatial statistics empowers you to answer questions confidently and make
 important decisions using more than simple visual analysis. Below are
-resources that will help you learn more. If you have questions or
-awesome analysis stories, there is a [Spatial
-Statistics Forum](https://geonet.esri.com/community/gis/analysis/spatial-statistics) on GeoNet -- _We'd love to hear
-from you!_
+resources that will help you learn more._
 
 This is the **big** encompassing list of our resources, for focused resources check out [Presentations](/presentations/) or [Hands On](/hands-on/).
 
