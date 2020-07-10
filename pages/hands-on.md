@@ -110,9 +110,9 @@ permalink: "/hands-on/"
 </div>
 
 #### Hands-on
-* [Learn Lesson](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) - Predict Seagrass Habitats with Machine Learning <span style="color:red; font-size: 70%; ">*new*</span>
-* [Downscale Climate Data](https://learn.arcgis.com/en/projects/downscale-climate-data-with-machine-learning/) - Analyze the relationship between simulated global circulation model variables and energy transfer in the atmosphere
 * [Predict Seagrass Habitats](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) - Predict seagrass habitats using machine learning tools and spatial analysis
+* [Downscale Climate Data](https://learn.arcgis.com/en/projects/downscale-climate-data-with-machine-learning/) - Analyze the relationship between simulated global circulation model variables and energy transfer in the atmosphere
+
 
 #### Key Documentation
 * [How the Forest-based Classification and Regression tool works](https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/how-forest-works.htm)
