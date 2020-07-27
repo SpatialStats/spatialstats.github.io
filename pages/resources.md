@@ -118,7 +118,6 @@ You can download the Add-in at [here](http://www.esriurl.com/SpaceTimeCubeExplor
 * Analyze traffic accident patterns ([Story Map](http://eath.maps.arcgis.com/apps/Cascade/index.html?appid=9a27635635c940539b96fb5ef954e4d5))
 * A smart site selection scenario using Hot Spot Analysis, Similarity Search and other analytical methods ([Tutorial](http://desktop.arcgis.com/en/analytics/case-studies/locating-a-new-retirement-community.htm))
 * Understanding the geography of online lending ([Story Map](https://eath.maps.arcgis.com/apps/Cascade/index.html?appid=20289bf8b2c0491ca8fae8578ab324ea))
-* Use Exploratory Regression and Grouping Analysis to investigate and explore literacy rates in Africa ([Tutorial](http://desktop.arcgis.com/en/analytics/case-studies/modeling-literacy.htm))
 * Investigating disparities in breast cancer rates ([Tutorials](https://learn.arcgis.com/en/projects/bridging-the-breast-cancer-divide/))
 * Applying Spatial Statistics: The Analysis Process in Action ([Video](https://www.youtube.com/watch?v=cCWxFbS4-uM))
 * Applying GWR in Real Estate Analysis.  An example from Marquette, Michigan. ([Article](http://www.esri.com/news/arcuser/0309/re_gwr.html)) 
