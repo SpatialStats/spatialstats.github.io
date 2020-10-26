@@ -18,11 +18,11 @@ You can watch a Live Training Seminar that covers the essentials of the Space Ti
 
 #### Download
 
-* [Add-in for ArcGIS Pro version 2.6](https://hive2.maps.arcgis.com/home/item.html?id=baca8d959984482d872931ad715c2026#)
-* [Add-in for ArcGIS Pro version 2.5](http://www.arcgis.com/home/item.html?id=256a5419d771409bab34401497645f5e)
-* [Add-in for ArcGIS Pro version 2.4](https://www.arcgis.com/home/item.html?id=c7143d81687e48688c5321c05d4d0339)
-* [Add-in for ArcGIS Pro version 2.3](https://www.arcgis.com/home/item.html?id=c3c91f4cc26447748bd059744eeb2c4f)
-* [Add-in for ArcGIS Pro version 2.2](https://www.arcgis.com/home/item.html?id=fbd5261477bf4ee696e2026b92e4ec33)
-* [Add-in for ArcGIS Pro version 2.1](https://www.arcgis.com/home/item.html?id=e5f067dbe6074de3adf2c38de4b079d9)
-* [Add-in for ArcGIS Pro version 2.0 and 2.0.1](http://www.arcgis.com/home/item.html?id=ffd5be434d394341ad1f89cd29c19e20)
-* [Add-in for ArcGIS Pro versions 1.3, 1.4, 1.4.1](https://www.arcgis.com/home/item.html?id=5c85bf58f8584d2faa5b1b76a2807dca)
+* [Add-in for ArcGIS Pro version 2.6](https://www.arcgis.com/home/item.html?id=da3932902bdb48679ac2bd99c3747fb1)
+* [Add-in for ArcGIS Pro version 2.5](https://www.arcgis.com/home/item.html?id=11b5852c19f041f6b0852ac8341d5a7e)
+* [Add-in for ArcGIS Pro version 2.4](https://arcgis.com/home/item.html?id=1878089135494821a85cacbc90bf0895)
+* [Add-in for ArcGIS Pro version 2.3](https://www.arcgis.com/home/item.html?id=2c1ba92e8f4841cbae2fd26fe25e3756)
+* [Add-in for ArcGIS Pro version 2.2](https://www.arcgis.com/home/item.html?id=a4d3f239cda6404f8ef3e57e7000ad05)
+* [Add-in for ArcGIS Pro version 2.1](https://www.arcgis.com/home/item.html?id=7327ef8dbd134b5287921e2ad8ae9637)
+* [Add-in for ArcGIS Pro version 2.0 and 2.0.1](https://www.arcgis.com/home/item.html?id=48ae6a1ef387451cbc004c9f7a24ae03)
+* [Add-in for ArcGIS Pro versions 1.3, 1.4, 1.4.1](https://www.arcgis.com/home/item.html?id=34726d4aa82149eb9a3ab283f9106f3b)
