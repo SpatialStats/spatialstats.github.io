@@ -7,6 +7,7 @@ teaser: "Additional resources to help you learn more about the methods behind th
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/resources/"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/#more
 ---
 Whenever we look at a map, we inherently start turning that map into
 information by finding patterns, assessing trends, or making decisions.

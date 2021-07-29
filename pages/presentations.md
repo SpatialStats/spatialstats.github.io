@@ -6,6 +6,7 @@ teaser: "Find our presentations from UC and more"
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/presentations/"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/#workshops
 ---
 
 
