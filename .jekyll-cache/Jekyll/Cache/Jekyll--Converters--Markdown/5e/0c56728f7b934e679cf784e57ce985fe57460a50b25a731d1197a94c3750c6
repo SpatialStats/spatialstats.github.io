@@ -1,0 +1,25 @@
+I"�<h2 id="no-problem">No problem!</h2>
+
+<p>Try…<br />
+…to start over on the <a href="/">home page</a>;<br />
+…to <strong>search</strong> below;<br />
+if you can’t find it, <a href="/contact/">ask about it</a>.</p>
+
+<h3 id="search">Search</h3>
+
+<script language="Javascript" type="text/javascript">
+	function google_search() {
+		var query = document.getElementById("google-search").value;
+		window.open("https://www.google.com/search?q=" + query + "+site:" + "https%3A%2F%2Fspatialstats.github.io%2F");
+	}
+</script>
+
+<form id="search" onsubmit="google_search(); return false;">
+	<input type="text" id="google-search" placeholder="Enter search term and hit enter" />
+</form>
+<noscript>
+	Search <a href="https://www.google.com/search?q=site:https%3A%2F%2Fspatialstats.github.io%2F" target="_blank">Google</a> for:
+	<pre><code>search-term site:https://spatialstats.github.io/</code></pre>
+</noscript>
+
+:ET

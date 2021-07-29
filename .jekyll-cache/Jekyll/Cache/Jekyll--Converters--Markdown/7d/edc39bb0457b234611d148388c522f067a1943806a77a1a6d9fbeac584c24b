@@ -1,0 +1,52 @@
+I"�<p>Use the <a href="https://www.esri.com/en-us/arcgis/products/r-arcgis-bridge/overview">R-ArcGIS Bridge</a> to combine the power of ArcGIS and R to solve your spatial problems. The R – ArcGIS Community is a community driven collection of free, open source projects making it easier and faster for R users to work with ArcGIS data, and ArcGIS users to leverage the analysis capabilities of R.</p>
+
+<h3 id="the-r-arcgis-bridge-github-repository">The R ArcGIS Bridge Github Repository</h3>
+
+<p>The <a href="https://r-arcgis.github.io/">R ArcGIS Bridge Github repository</a> has all the resources you need to find out what the R-ArcGIS Bridge can do, how to install it and sample scripts highlighting some of the many features.</p>
+
+<p>Under the ‘Issues’ section of the r-bridge-install page, users can post direct questions to us or ask for additional functionality they might need. We also have a section where R-ArcGIS bridge community members can share script tools they have created to help other users.</p>
+
+<h3 id="r-arcgis-bridge-geonet-community">R ArcGIS Bridge GeoNet Community</h3>
+
+<p>We regularly post blogs, demo videos, or content from presentations on the bridge <a href="https://community.esri.com/groups/rstats">on GeoNet</a>. Additionally, there is a forum where users can ask questions to either other users or to the R-ArcGIS bridge team.</p>
+
+<h3 id="installation-instructions">Installation Instructions</h3>
+<p>Looking to install the bridge? We have <a href="https://github.com/R-ArcGIS/r-bridge-install">detailed instructions</a> for ArcMap and ArcGIS Pro.</p>
+
+<div id="overview_div" class="row">
+  <div class="small-12 large-4 columns" top="0">
+    <p><a href="https://community.esri.com/videos/4134-installing-the-r-arcgis-bridge-for-arcmap-1031">Install Video Tutorial for ArcMap 10.3.1+</a></p>
+  </div>
+  <div class="small-12 large-4 columns" top="0">
+    <p><a href="https://community.esri.com/videos/4135-installing-the-r-arcgis-bridge-for-arcgis-pro-11-141">Install Video Tutorial for ArcGIS Pro 1.1-1.4.1</a></p>
+  </div>
+  <div class="small-12 large-4 columns" top="0">
+    <p><a href="https://community.esri.com/videos/4136-installing-the-r-arcgis-bridge-for-arcgis-pro-20">Install Video Tutorial for ArcGIS Pro 2.0+</a></p>
+  </div>
+</div>
+
+<h3 id="resources-to-get-started-using-the-r-arcgis-bridge">Resources to Get Started Using the R-ArcGIS Bridge</h3>
+
+<h4 id="using-the-r-arcgis-bridge---web-course">Using the R-ArcGIS Bridge - Web Course</h4>
+
+<p>Combine the power of ArcGIS and R to solve complex spatial problems with the R-ArcGIS bridge. <a href="https://www.esri.com/training/catalog/58b5e417b89b7e000d8bfe45/using-the-r-arcgis-bridge/">This course</a> shows you how to load spatial data into an R workspace to perform statistical analysis using the R-ArcGIS bridge.</p>
+
+<h4 id="analyze-crime-using-statistics-and-the-r-arcgis-bridge">Analyze Crime Using Statistics and the R-ArcGIS Bridge</h4>
+
+<p><br />
+<img src="/images/R_Learn_med_v2.png" alt="Using the R ArcGIS bridge to analyze crime" class="inline" />
+<br />
+Do you want to try out the R-ArcGIS Bridge? Use <a href="https://learn.arcgis.com/en/projects/analyze-crime-using-statistics-and-the-r-arcgis-bridge/">this Learn ArcGIS Lesson</a> to analyze crime patterns in San Francisco using hot spot analysis, Empirical Bayes smoothing and correlation matrices.</p>
+
+<h4 id="integrating-r-scripts-into-arcgis-geoprocessing-tools">Integrating R Scripts into ArcGIS Geoprocessing Tools</h4>
+
+<p>This is a <a href="https://www.esri.com/training/catalog/58b5e578b89b7e000d8bfffd/integrating-r-scripts-into-arcgis-geoprocessing-tools/">guided web course</a> on creating an R script tool. It walks through the process of creating one on both the ArcGIS and R side. This is a good resources for first time script tool creation.</p>
+
+<h4 id="arcgisbinding-package-vignette">Arcgisbinding Package Vignette</h4>
+
+<p>For users more comfortable with R scripting, the <a href="https://r-arcgis.github.io/assets/arcgisbinding-vignette.html">package vignette</a> is a good resource because it provides a detailed description of each function in the arcgisbinding R package and can just be used as a resource versus a full tutorial like some of the above options. It also includes a template for creating script tools.</p>
+
+<h4 id="sample-script-tools">Sample Script Tools</h4>
+
+<p>These <a href="https://github.com/R-ArcGIS/r-sample-tools">sample script tools</a> can be used as working examples to create new script tools off of.</p>
+:ET

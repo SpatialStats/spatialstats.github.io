@@ -1,0 +1,157 @@
+I"�><p>Whenever we look at a map, we inherently start turning that map into
+information by finding patterns, assessing trends, or making decisions.
+Spatial statistics empowers you to answer questions confidently and make
+important decisions using more than simple visual analysis. Below are
+resources that will help you learn more. If you have questions or
+awesome analysis stories, there is a <a href="https://geonet.esri.com/community/gis/analysis/spatial-statistics">Spatial
+Statistics Forum</a> on GeoNet – <em>We’d love to hear
+from you!</em></p>
+
+<p>This is the <strong>big</strong> encompassing list of our resources, for focused resources check out <a href="/presentations/">Presentations</a> or <a href="/hands-on/">Hands On</a>.</p>
+
+<h3 id="resource-topics">Resource Topics</h3>
+
+<ul>
+  <li><a href="#covid-19-analysis">COVID-19 Analysis</a></li>
+  <li><a href="#space-time-cube-explorer">Space Time Cube Explorer</a></li>
+  <li><a href="#presentations-from-the-user-conference">Presentations from the User Conference</a></li>
+  <li><a href="#brand-new-to-spatial-statistics">Brand new to spatial statistics?</a></li>
+  <li><a href="#summarize">Summarize</a></li>
+  <li><a href="#find-clusters">Find clusters</a></li>
+  <li><a href="#model-relationships">Model relationships</a></li>
+  <li><a href="#space-time-pattern-mining">Space Time Pattern Mining</a></li>
+  <li><a href="#tips-and-tricks">Tips and tricks</a></li>
+  <li><a href="#putting-it-all-together">Putting it all together</a></li>
+  <li><a href="#articles-and-blogs">Articles and blogs</a></li>
+  <li><a href="#integrating-arcgis-and-r">Integrating ArcGIS and R</a></li>
+  <li><a href="#model-and-script-tools">Model and script tools</a></li>
+  <li><a href="#read-more">Read More</a></li>
+</ul>
+
+<h3 id="covid-19-analysis--new">COVID-19 Analysis  <span style="color:red; font-size: 50%; "><em>new</em></span></h3>
+<p>The <a href="https://www.arcgis.com/home/item.html?id=37ad6eb0d1034cd58844314a9b305de2">ArcGIS Pro COVID-19 Modeling Toolbox</a> provides CHIME Model v1.1.5 and COVID-19Surge (CDC) tools for ArcGIS Pro 2.3 and later to assist hospitals, cities and regions with intervention and resource planning during the COVID-19 pandemic.</p>
+<ul>
+  <li>CHIME Model tool (<a href="https://www.youtube.com/watch?v=hMa5XPCjDDE&amp;feature=youtu.be">Video</a>)</li>
+  <li>COVID-19Surge tool (<a href="https://www.youtube.com/watch?v=8AfVrB8Ig5E">Video</a>)</li>
+  <li>Analyze COVID-19 Risk Using ArcGIS Pro (<a href="https://learngis.maps.arcgis.com/home/item.html?id=b49f4226fd1f4bccb72ab5d308c7da73">Lesson</a>)</li>
+  <li>Evaluate County Readiness for Relaxing Stay-at-Home Measures (<a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/health/evaluate-county-readiness-for-relaxing-stay-at-home-measures/">Tutorial</a>)</li>
+  <li>Evaluate COVID-19 Financial Vulnerability (<a href="https://www.arcgis.com/sharing/rest/content/items/875c3ebc96764a2a8001ac731aa79028/data">lesson</a>)</li>
+  <li>COVID-19 Response: Location Allocation (<a href="https://www.youtube.com/watch?v=tLO1T55Orac&amp;feature=youtu.be">Video</a>)</li>
+</ul>
+
+<h3 id="space-time-cube-explorer">Space Time Cube Explorer</h3>
+
+<p>The Space Time Cube Explorer add-in can help you interact with and explore your space-time cube and analysis results created with the <a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm">Space Time Pattern Mining toolbox</a> in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a <a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/createcubefromdefinedlocations.htm">defined locations cube</a> and enhanced time and range slider settings.</p>
+
+<p>You can download the Add-in at <a href="http://www.esriurl.com/SpaceTimeCubeExplorer">here</a> .</p>
+
+<h3 id="brand-new-to-spatial-statistics">Brand new to spatial statistics</h3>
+<h4 id="start-here-">Start here &gt;</h4>
+
+<ol>
+  <li>Spatial Statistics: Simple Ways to Do More with Your Data (<a href="https://www.youtube.com/watch?v=3d_8nQpSCgE&amp;list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&amp;index=43">Video</a>)</li>
+  <li>Spatial Data Mining: A Deep Dive into Cluster Analysis (<a href="https://www.youtube.com/watch?v=qQNOlfOYtyw&amp;list=PLaPDDLTCmy4YcXpv_ypX3YicMHVUOuGYR&amp;index=51">Video</a>)</li>
+  <li>Hot Spot Analysis for ArcGIS 10.1 (<a href="http://www.arcgis.com/home/item.html?id=6626d5cc81a745f1b737028f7a519521">Tutorial</a>)</li>
+  <li>Beyond Where: Modeling Spatial Relationships Using Regression Analysis (<a href="http://video.esri.com/watch/3871/modeling-spatial-relationships-using-regression-analysis">Video</a>)</li>
+  <li>Beyond Where: Using Regression Analysis to Explore Why (<a href="http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&amp;courseID=2586">Tutorial</a>)</li>
+</ol>
+
+<h3 id="summarize">Summarize</h3>
+<h4 id="use-descriptive-statistics-to-explore-your-data">Use descriptive statistics to explore your data</h4>
+<ul>
+  <li>Spatial Statistics: Simple Ways to Do More with Your Data (<a href="https://video.esri.com/watch/4003/spatial-statistics-simple-ways-to-do-more-with-your-data">Video</a>)</li>
+  <li>Spatial Trends of International Piracy (<a href="https://www.arcgis.com/apps/Cascade/index.html?appid=14a74ebfc24f41308653f3d096e38148">Story Map</a>)</li>
+  <li>Spatial Pattern Analysis of Dengue Fever (<a href="https://www.esri.com/videos/watch?videoid=RCVojK0yF78&amp;title=spatial-pattern-analysis-of-dengue-fever-video">Video</a>)</li>
+</ul>
+
+<h3 id="find-clusters">Find clusters</h3>
+<h4 id="discover-hot-spots-cold-spots-and-outliers">Discover hot spots, cold spots and outliers</h4>
+<ul>
+  <li>Spatial Data Mining: A Deep Dive into Cluster Analysis (<a href="https://video.esri.com/watch/4004/spatial-data-mining-a-deep-dive-into-cluster-analysis">Video</a>)</li>
+  <li>Analyzing violent crime (<a href="http://desktop.arcgis.com/en/analytics/case-studies/broken-bottles-1-overview.htm">Tutorial</a>)</li>
+  <li>Investigating Medicare spending using Hot Spot Analysis (<a href="https://learn.arcgis.com/en/projects/where-does-healthcare-cost-the-most/lessons/analyze-medicare-cost-hot-spots.htm">Tutorial</a>)</li>
+  <li>Hot Spot Analysis Tutorial for ArcGIS 10.1 (<a href="http://www.arcgis.com/home/item.html?id=6626d5cc81a745f1b737028f7a519521">Tutorial</a>)</li>
+  <li>Hot Spot Analysis Tutorial for ArcGIS 10.0 (<a href="http://www.arcgis.com/home/item.html?id=dea008bcc77d4fd485abdf8121190b82">Tutorial</a>)</li>
+  <li>Spatial Pattern Analysis of Dengue Fever (<a href="http://www.arcgis.com/home/item.html?id=49dde041c3634355bf073b0b55fa5b2d">Tutorial</a>)</li>
+  <li>Spatial Statistics ModelBuilder Tutorial for ArcGIS 10 (<a href="http://www.arcgis.com/home/item.html?id=7180ba6e9d8845128eaadf70a4b6bf7e">Tutorial</a>)</li>
+</ul>
+
+<h3 id="model-relationships">Model relationships</h3>
+<h4 id="explore-the-question-why-and-make-predictions">Explore the question “why?” and make predictions</h4>
+<ul>
+  <li>Answering WHY Questions, An Introduction to using regression analysis with spatial data (<a href="http://www.esri.com/news/arcuser/0309/files/why.pdf">Article</a>)</li>
+  <li>Beyond Where: Modeling Spatial Relationships Using Regression Analysis (<a href="https://video.esri.com/watch/3871/modeling-spatial-relationships-using-regression-analysis">Video</a>)</li>
+  <li>Regression Analysis Basics (<a href="http://resources.arcgis.com/en/help/main/10.1/index.html#/Regression_analysis_basics/005p00000023000000/">Online Documentation</a>)</li>
+  <li>What they don’t tell you about regression analysis (<a href="http://resources.arcgis.com/en/help/main/10.1/index.html#//005p00000053000000">Online Documentation</a>)</li>
+  <li>Regression Analysis in ArcGIS 10 (<a href="http://www.arcgis.com/home/item.html?id=71a65d35688a4502b123cbdfc99afdee">Tutorial</a>)</li>
+  <li>Regression Analysis in ArcGIS 9.3/9.3.1 (<a href="http://www.arcgis.com/home/item.html?id=9ae34ee00c614d10ab086bcb1cce9482">Tutorial</a>)</li>
+</ul>
+
+<h3 id="space-time-pattern-mining">Space Time Pattern Mining</h3>
+<h4 id="identify-trends-and-analyze-changes-in-patterns-over-time">Identify trends and analyze changes in patterns over time</h4>
+<ul>
+  <li>Space Time Pattern Mining: A New Frontier in Spatial Analysis <a href="https://www.esri.com/training/catalog/57b3c46754c097bb74d3e6c3/space-time-pattern-mining:-a-new-frontier-in-spatial-analysis/">live training seminar</a>.</li>
+  <li>The Space Time Cube Explorer Add-in for ArcGIS Pro enhances the way you can interact with and explore your space-time cubes with preset symbology, range sliders and time sliders. For <a href="https://www.arcgis.com/home/item.html?id=5c85bf58f8584d2faa5b1b76a2807dca">Pro 1.3</a>, <a href="https://www.arcgis.com/home/item.html?id=5c85bf58f8584d2faa5b1b76a2807dca">1.4 or 1.4.1</a>  For <a href="http://www.arcgis.com/home/item.html?id=ffd5be434d394341ad1f89cd29c19e20">Pro 2.0</a></li>
+  <li>Analyze traffic accident patterns over time (<a href="http://eath.maps.arcgis.com/apps/Cascade/index.html?appid=9a27635635c940539b96fb5ef954e4d5">Story Map</a>)</li>
+</ul>
+
+<h3 id="tips-and-tricks">Tips and tricks</h3>
+<h4 id="pro-tips-you-should-know">Pro tips you should know</h4>
+<ul>
+  <li>A tutorial covering concepts such as cartographic subjectivity, data suppression (<a href="http://desktop.arcgis.com/en/analytics/case-studies/linguistic-diversity-1-intro.htm">Case Study Tutorial</a>)</li>
+  <li>Picking the Right Conceptualization of Spatial Relationships (<a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/modeling-spatial-relationships.htm">Online Documentation</a>)</li>
+  <li>How Spatial Autocorrelation (Global Moran’s I) Works (<a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/h-how-spatial-autocorrelation-moran-s-i-spatial-st.htm">Online Documentation</a>)</li>
+  <li>How Hot Spot Analysis Works (<a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/h-how-hot-spot-analysis-getis-ord-gi-spatial-stati.htm">Online Documentation</a>)</li>
+  <li>What is a z-score? What is a p-value? (<a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/what-is-a-z-score-what-is-a-p-value.htm">Online Documentation</a>)</li>
+  <li>Finding a Meaningful Model, a checklist to evaluate regression models (<a href="http://www.esri.com/news/arcuser/0111/findmodel.html">Article</a>)</li>
+  <li>Tips and Tricks for Finding a Good Model using OLS and GWR (<a href="https://geonet.esri.com/thread/5167">GeoNet Forum</a>)</li>
+</ul>
+
+<h3 id="putting-it-all-together">Putting it all together</h3>
+<h4 id="walk-through-a-real-analysis-from-start-to-finish">Walk through a real analysis from start to finish</h4>
+<ul>
+  <li>Use Python, R and ArcGIS to model plastic pollution (<a href="https://www.youtube.com/watch?v=cNynzdFbhZ8">Video</a>) <span style="color:red; font-size: 70%; "><em>new</em></span></li>
+  <li>Combating Homelessness in Los Angeles County (<a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/combating-homelessness-in-los-angeles-county-case-study-and-tutorial/">Tutorial</a>) <span style="color:red; font-size: 70%; "><em>new</em></span></li>
+  <li>Analyze traffic accident patterns (<a href="http://eath.maps.arcgis.com/apps/Cascade/index.html?appid=9a27635635c940539b96fb5ef954e4d5">Story Map</a>)</li>
+  <li>A smart site selection scenario using Hot Spot Analysis, Similarity Search and other analytical methods (<a href="http://desktop.arcgis.com/en/analytics/case-studies/locating-a-new-retirement-community.htm">Tutorial</a>)</li>
+  <li>Understanding the geography of online lending (<a href="https://eath.maps.arcgis.com/apps/Cascade/index.html?appid=20289bf8b2c0491ca8fae8578ab324ea">Story Map</a>)</li>
+  <li>Investigating disparities in breast cancer rates (<a href="https://learn.arcgis.com/en/projects/bridging-the-breast-cancer-divide/">Tutorials</a>)</li>
+  <li>Applying Spatial Statistics: The Analysis Process in Action (<a href="https://www.youtube.com/watch?v=cCWxFbS4-uM">Video</a>)</li>
+  <li>Applying GWR in Real Estate Analysis.  An example from Marquette, Michigan. (<a href="http://www.esri.com/news/arcuser/0309/re_gwr.html">Article</a>)</li>
+</ul>
+
+<h3 id="articles-and-blogs">Articles and blogs</h3>
+<ul>
+  <li><a href="https://www.esri.com/arcgis-blog/products/product/analytics/r-arcgis-bridge-meets-the-cloud-working-with-remote-data/">R-ArcGIS Bridge Meetings the Cloud: Working with Remote Data</a> <span style="color:red; font-size: 50%; "><em>new</em></span></li>
+  <li><a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/r-notebooks-in-arcgis-pro-for-spatial-data-science/">R Notebooks in ArcGIS Pro for Spatial Data Science</a> <span style="color:red; font-size: 50%; "><em>new</em></span></li>
+  <li><a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/bridging-into-new-realms-arcgis-bridge-and-microsoft-r/">Bridging Into New Realms: R-ArcGIS Bridge and Microsoft R</a> <span style="color:red; font-size: 50%; "><em>new</em></span></li>
+  <li>Spatial Statistics Provide New Insights in <a href="http://www.esri.com/news/arcuser/1207/ticks.html">Disease Analysis</a></li>
+  <li>Download Our Chapter in the Handbook of Applied Spatial Analysis <a href="http://www.springer.com/cda/content/document/cda_downloaddocument/9783642036460-c1.pdf?SGWID=0-0-45-855715-p173918949">here</a></li>
+  <li>An interview on <a href="http://www.esri.com/news/arcwatch/0410/lauren-scott.html">Understanding Spatial Statistics and Geostatistic</a></li>
+</ul>
+
+<h3 id="integrating--arcgis-and-r">Integrating  ArcGIS and R</h3>
+<ul>
+  <li>R-ArcGIS Bridge (<a href="https://github.com/R-ArcGIS/r-bridge-install">install</a>)</li>
+  <li>Browse through the <a href="https://r-arcgis.github.io/">R-ArcGIS Community</a></li>
+  <li>R-ArcGIS Bridge Workflow Demo (<a href="https://geonet.esri.com/videos/3343#">Video</a>)</li>
+  <li><a href="http://www.arcgis.com/home/item.html?id=a5736544d97a4544aa47d06baf910f6d">Using R in ArcGIS 10 and 10.1</a></li>
+  <li><a href="http://www.arcgis.com/home/item.html?id=547085ee428f4141b2cacb338f8f61a3">Using R in ArcGIS 9.3</a></li>
+</ul>
+
+<h3 id="model-and-script-tools">Model and script tools</h3>
+<ul>
+  <li>The <a href="http://www.arcgis.com/home/item.html?id=5c85bf58f8584d2faa5b1b76a2807dca#overview">Space Time Cube Explorer Add-in</a> for ArcGIS Pro 1.3 and 1.4 enhances the way you can interact with and explore your space-time cubes with preset symbology, range sliders and time sliders.</li>
+  <li><a href="http://angp.maps.arcgis.com/home/item.html?id=f9e8d037d73743039e8cfbf2aec66448">Space Time Cube Utilities for ArcGIS Pro</a>, includes tools to visualize the space-time cube in 2D and 3D</li>
+  <li><a href="https://www.arcgis.com/home/item.html?id=694e0f97355740d7bba6b8b356c0b925">Supplementary Spatial Statistics Toolbox for ArcGIS 10</a>, includes both Exploratory Regression and Incremental Spatial Autocorrelation</li>
+  <li>Space Time Pattern Mining toolbox patches for <a href="http://support.esri.com/download/2192">ArcGIS 10.3</a> and <a href="http://support.esri.com/download/2193">ArcGIS Pro 1.0</a>.</li>
+</ul>
+
+<h3 id="read-more">Read more</h3>
+<h4 id="our-suggested-book-list">Our suggested book list</h4>
+<ul>
+  <li>Mitchell, Andy. <a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=86&amp;moduleID=0">The ESRI Guide to GIS Analysis, Volume 2</a> . <a href="http://esripress.esri.com/display/index.cfm">ESRI Press</a>, 2005.</li>
+  <li>Fotheringham, Stewart A., Chris Brunsdon, and Martin Charlton. Geographically Weighted Regression: the analysis of spatially varying relationships. John Wiley &amp; Sons, 2002.</li>
+  <li>David, John C. Statistics and Data Analysis in Geology. John Wiley &amp; Sons, 1973.</li>
+</ul>
+:ET

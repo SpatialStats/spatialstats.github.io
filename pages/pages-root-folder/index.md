@@ -43,6 +43,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/
 ---
 
 ## Welcome to the Spatial Statistics Resources Page

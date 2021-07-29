@@ -1,0 +1,82 @@
+I")<h2 id="space-time-pattern-mining-toolbox">Space Time Pattern Mining toolbox</h2>
+
+<p>The Space Time Pattern Mining toolbox contains statistical tools for analyzing data distributions and patterns in the context of both space and time. It includes a toolset that can be helpful for visualizing the data stored in the space-time netCDF cube in both 2D and 3D and filling missing values in your data prior to cube creation.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tool</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/create-space-time-cube.htm">Create Space Time Cube By Aggregating Points</a></td>
+      <td>Summarizes a set of points into a netCDF data structure by aggregating them into space-time bins. Within each bin, the points are counted and specified attributes are aggregated. For all bin locations, the trend for counts and summarized attributes are evaluated.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/createcubefromdefinedlocations.htm">Create Space Time Cube From Defined Locations</a></td>
+      <td>Creates a netCDF data structure from panel data, station data, or other data where the locations are fixed and attributes change over time. For all locations, the trends for attributes are evaluated.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/emerginghotspots.htm">Emerging Hot Spot Analysis</a></td>
+      <td>Identifies trends in the clustering of point counts or attributes in a netCDF space-time cube. Categories include new, consecutive, intensifying, persistent, diminishing, sporadic, oscillating, and historical hot and cold spots.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/localoutlieranalysis.htm">Local Outlier Analysis</a></td>
+      <td>Identifies statistically significant clusters of high or low values as well as outliers that have values that are statistically different than their neighbors in space and time.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Toolset</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-utilities-toolset.htm">Utilities toolset</a></td>
+      <td>This toolset contains tools for visualizing the variables stored in a netCDF cube.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="spatial-statistics-toolbox">Spatial Statistics toolbox</h2>
+
+<p>The Spatial Statistics toolbox contains statistical tools for analyzing spatial distributions, patterns, processes, and relationships. While there may be similarities between spatial and nonspatial (traditional) statistics in terms of concepts and objectives, spatial statistics are unique in that they were developed specifically for use with geographic data. Unlike traditional nonspatial statistical methods, they incorporate space (proximity, area, connectivity, and/or other spatial relationships) directly into their mathematics.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Toolset</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-analyzing-patterns-toolset.htm">Analyzing Patterns</a></td>
+      <td>These tools evaluate if features, or the values associated with features, form a clustered, dispersed, or random spatial pattern.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-mapping-clusters-toolset.htm">Mapping Clusters</a></td>
+      <td>These tools may be used to identify statistically significant hot spots, cold spots, or spatial outliers. There are also tools to identify or group features with similar characteristics.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-measuring-geographic-distributions-toolset.htm">Measuring Geographic Distributions</a></td>
+      <td>These tools address questions such as Where’s the center? What’s the shape and orientation? How dispersed are the features?</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-modeling-spatial-relationships-toolset.htm">Modeling Spatial Relationships</a></td>
+      <td>These tools model data relationships using regression analyses or construct spatial weights matrices.</td>
+    </tr>
+    <tr>
+      <td><a href="http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-utilities-toolset.htm">Utilities</a></td>
+      <td>These utility tools perform a variety of miscellaneous functions: computing areas, assessing minimum distances, exporting variables and geometry, converting spatial weights files, and collecting coincident points.</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

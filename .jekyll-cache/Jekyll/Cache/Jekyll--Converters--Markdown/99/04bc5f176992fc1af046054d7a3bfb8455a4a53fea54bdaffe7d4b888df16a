@@ -1,0 +1,40 @@
+I"�<h2 id="welcome-to-the-spatial-statistics-resources-page">Welcome to the Spatial Statistics Resources Page</h2>
+
+<p>Whenever we look at a map, we inherently start turning that map into information by finding patterns, assessing trends, or making decisions. Spatial statistics empowers you to answer questions confidently and make important decisions using more than simple visual analysis. We have compiled some of our favorite resources including our latest Esri User Conference <a href="/presentations/">presentations</a>, hands-on <a href="/hands-on/">tutorials</a> and everything you need to get started using the <a href="/r-arcgis-bridge/">Esri R-ArcGIS Bridge</a>. If you have questions or awesome analysis stories, there is a <a href="https://community.esri.com/community/gis/analysis/spatial-statistics">Spatial Statistics Forum</a> on GeoNet — We’d love to hear from you!</p>
+
+<h3 id="user-conference-2020-new">User Conference 2020 <span style="color:red; font-size: 50%; "><em>new</em></span></h3>
+
+<p>Meet with the team in the UC showcase – look for Spatial Statistics in the Spatial Analysis and Data Science area.</p>
+
+<h5 id="attend-our-live-workshops">Attend our live workshops</h5>
+<ul>
+  <li><span style="border-bottom: 1px dashed #999; text-decoration: none;"><a href="https://userconference2020.schedule.esri.com/schedule/1483055597">Applying Spatial Data Science: A Complete Workflow</a></span></li>
+  <li><span style="border-bottom: 1px dashed #999; text-decoration: none;"><a href="https://userconference2020.schedule.esri.com/schedule/851479585">Data Visualization for Spatial Analysis</a></span></li>
+</ul>
+
+<h5 id="watch-our-on-demand-workshops">Watch our on-demand workshops</h5>
+<ul>
+  <li>Machine Learning in ArcGIS: An Introduction</li>
+  <li>Machine Learning Explained: Finding Clusters</li>
+  <li>The R‐ArcGIS Bridge and R Notebooks: An Introduction</li>
+  <li>A Tour of the R‐ArcGIS Bridge</li>
+</ul>
+
+<p>Tune into <a href="https://userconference2020.schedule.esri.com/schedule/1141233282">part 2 of the plenary</a> to hear about some exciting new spatial statistics tools in ArcGIS Pro 2.6.</p>
+
+<p>Be sure to check out the other <a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/spatial-analysis-and-data-science-at-the-2020-esri-user-conference/">Spatial Analysis and Data Science</a> sessions on offer at the conference.</p>
+
+<p>This website is still here after the UC is finished! Be sure to check back in the coming weeks and months – we are always adding new content as new resources are created and with the release of each new version of ArcGIS Pro.</p>
+
+<h3 id="whats-new">What’s New?</h3>
+
+<p>We are releasing several exciting new tools in the upcoming ArcGIS Pro 2.6 release!</p>
+
+<p>The new Time Series Forecasting toolset has been added to the <a href="https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/an-overview-of-the-space-time-pattern-mining-toolbox.htm">Space Time Pattern Mining Toolbox</a>. There are three forecast methods to choose from according to your data and use case (Curve Fit Forecast, Exponential Smoothing Forecast, Forest-based Forecast). The Evaluate Forecast by Locations tool allows you to easily compare results of these methods. The Space Time Cube Explorer (STCE) add-in has been enhanced to visualize forecast outputs, providing insights in a visual and intuitive way. New algorithms are implemented for <a href="https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/time-series-clustering.htm">Time Series Clustering</a> to improve performance – making the tool hundreds of times faster! We enhanced the <a href="https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/generate-network-spatial-weights.htm">Generate Network Spatial Weights</a> to allow it to work with Network Analysis Services. In response to COVID-19, our team developed <a href="https://spatialstats.github.io/resources/#covid-19-analysis">analysis tools</a> for local governments, hospitals and researchers.</p>
+
+<p>In the release 2.5 earlier this year, the new <a href="https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/colocationanalysis.htm">Colocation Analysis tool</a> was added to the <a href="https://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/an-overview-of-the-modeling-spatial-relationships-toolset.htm">Modeling Spatial Relationships toolset</a>. This tool measures local patterns of spatial association, or colocation, between two categories of point features using the colocation quotient statistic.</p>
+
+<h3 id="future-development">Future Development</h3>
+
+<p>We are always busy working on new methods and new tools to help you explore your data in exciting and innovative ways. Some of our current research includes bringing even more machine learning algorithms into ArcGIS Pro, with a focus on outlier detection, adding additional prediction methods, and a new data preprocessing environment to make your data and analysis preparation easier.</p>
+:ET
