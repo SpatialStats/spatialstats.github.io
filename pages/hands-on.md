@@ -7,6 +7,7 @@ teaser: "Get started using our tools with these hands on tutorials"
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/hands-on/"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/#paths
 ---
 
 

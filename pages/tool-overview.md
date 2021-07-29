@@ -7,6 +7,7 @@ teaser: "Look here for an overview of the tools from the spatial statistics team
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/tool-overview/"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/
 ---
 
 ## Space Time Pattern Mining toolbox ##

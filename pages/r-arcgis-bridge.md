@@ -6,6 +6,7 @@ subheadline: "Connect and explore"
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/r-arcgis-bridge/"
+redirect_to: https://www.esri.com/en-us/arcgis/products/r-arcgis-bridge/overview
 ---
 
 Use the [R-ArcGIS Bridge](https://www.esri.com/en-us/arcgis/products/r-arcgis-bridge/overview) to combine the power of ArcGIS and R to solve your spatial problems. The R – ArcGIS Community is a community driven collection of free, open source projects making it easier and faster for R users to work with ArcGIS data, and ArcGIS users to leverage the analysis capabilities of R.

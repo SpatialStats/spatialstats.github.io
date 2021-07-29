@@ -4,6 +4,7 @@ title: "About"
 permalink: "/info/"
 header:
     image_fullwidth: "banner.jpg"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/#team
 ---
 The Spatial Statistics team at Esri develops tools at the intersection of statistical and spatial analysis. Using spatial statistics you can find patterns, explore relationships, and understand temporal trends in your data. 
 

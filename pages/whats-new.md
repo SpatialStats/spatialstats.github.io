@@ -7,6 +7,7 @@ teaser: "We are always adding new tools, see the latest here."
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/whats-new/"
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/
 ---
 {% for post in site.categories.news limit:5 %}
 
