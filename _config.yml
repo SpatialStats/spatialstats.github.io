@@ -49,6 +49,10 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-from
+    
+whitelist:
+    - jekyll-redirect-from
 
 
 #       ____              _             __  _

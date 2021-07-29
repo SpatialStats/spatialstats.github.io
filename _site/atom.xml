@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://spatialstats.github.io/</id>
+	<title>Spatial Statistics Resources</title>
+	<updated>2021-07-29T09:53:38-07:00</updated>
+
+	<subtitle>»The Spatial Statistics team at Esri develops tools at the intersection of statistical and spatial analysis. Using spatial statistics you can find patterns, explore relationships, and understand temporal trends in your data.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>SpatialStatistics</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://spatialstats.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://spatialstats.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://spatialstats.github.io/news/space-time-cube-explorer/</id>
+			<title>Space Time Cube Explorer for Pro 2.0</title>
+			<link href="https://spatialstats.github.io/news/space-time-cube-explorer/" rel="alternate" type="text/html" title="Space Time Cube Explorer for Pro 2.0" />
+			<updated>2017-06-25T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Use the new defined locations cube with the space time cube explorer</summary>
+			<content type="html" xml:base="https://spatialstats.github.io/news/space-time-cube-explorer/">&lt;h4 id=&quot;an-updated-space-time-cube-explorer-add-in-for-arcgis-pro-20-is-now-available&quot;&gt;An updated Space Time Cube Explorer Add-in for ArcGIS Pro 2.0 is now available&lt;/h4&gt;
+
+&lt;p&gt;The Add-in can help you interact with and explore your space-time cube and analysis results created with the Space Time Pattern Mining toolbox in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a defined locations cube and enhanced time and range slider settings.&lt;/p&gt;
+
+&lt;p&gt;You can download the Add-in at &lt;a href=&quot;http://www.esriurl.com/SpaceTimeCubeExplorer&quot;&gt;http://www.esriurl.com/SpaceTimeCubeExplorer&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="post stpm" />
+			
+
+			<published>2017-06-25T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://spatialstats.github.io/news/video/</id>
+			<title>Video Template</title>
+			<link href="https://spatialstats.github.io/news/video/" rel="alternate" type="text/html" title="Video Template" />
+			<updated>2014-09-14T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>If you want to show videos in a large manner, the video template is the right choice.</summary>
+			<content type="html" xml:base="https://spatialstats.github.io/news/video/">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2014-09-14T00:00:00-07:00</published>
+		</entry>
+	
+</feed>

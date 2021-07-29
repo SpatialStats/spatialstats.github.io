@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://spatialstats.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://spatialstats.github.io/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Spatial Statistics Resources</title>
+		<description>»The Spatial Statistics team at Esri develops tools at the intersection of statistical and spatial analysis. Using spatial statistics you can find patterns, explore relationships, and understand temporal trends in your data.</description>
+		<link>https://spatialstats.github.io/</link>
+		<atom:link href="https://spatialstats.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Space Time Cube Explorer for Pro 2.0</title>
+				<link>https://spatialstats.github.io/news/space-time-cube-explorer/</link>
+				<pubDate>Sun, 25 Jun 2017 00:00:00 -0700</pubDate>
+				<description>&lt;h4 id=&quot;an-updated-space-time-cube-explorer-add-in-for-arcgis-pro-20-is-now-available&quot;&gt;An updated Space Time Cube Explorer Add-in for ArcGIS Pro 2.0 is now available&lt;/h4&gt;
+
+&lt;p&gt;The Add-in can help you interact with and explore your space-time cube and analysis results created with the Space Time Pattern Mining toolbox in a simple and intuitive way.  This update includes many new features and enhancements such as the ability to output 3D polygons from a defined locations cube and enhanced time and range slider settings.&lt;/p&gt;
+
+&lt;p&gt;You can download the Add-in at &lt;a href=&quot;http://www.esriurl.com/SpaceTimeCubeExplorer&quot;&gt;http://www.esriurl.com/SpaceTimeCubeExplorer&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://spatialstats.github.io/news/space-time-cube-explorer/</guid>
+			</item>
+		
+			<item>
+				<title>Video Template</title>
+				<link>https://spatialstats.github.io/news/video/</link>
+				<pubDate>Sun, 14 Sep 2014 00:00:00 -0700</pubDate>
+				<description>&lt;!--more--&gt;
+
+&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://spatialstats.github.io/news/video/</guid>
+			</item>
+		
+	</channel>
+</rss>
