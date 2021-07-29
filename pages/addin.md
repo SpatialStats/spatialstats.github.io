@@ -5,7 +5,7 @@ title: "Spatial Statistics Add-ins"
 header:
    image_fullwidth: "banner.jpg"
 permalink: "/addin/"
-redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/#stce
+redirect_to: https://spatialstats-analysis-1.hub.arcgis.com/pages/space-time-cube-explorer
 ---
 
 ### The Space Time Cube Explorer
